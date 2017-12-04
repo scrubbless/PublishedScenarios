@@ -1,0 +1,1128 @@
+﻿.,French
+EventHoldingCellPersuadeScientistSuccess_Tile21.text,""Bien, je vais vous dire. Notez que je ne pense seulement qu'à votre sécurité. Il y a un entrepôt temporairement aménagé en infirmerie. J'ai travaillé là-bas pendant quelques jours, après que la maladie est apparue. Mais nous avons dû l'abandonner... A cause... Des créatures." Elle paraît tendue.\n\n"La porte est verrouillée mais il y a un code de désactivation, le 9326. Je continue d'espérer que cela a retenu ce qu'il y a dedans. Cela peut être un raccourci vers le labo, il y a une porte cachée dans le fond... Mais... Ce n'est pas sûr, n'allez pas là-bas!", vous implore-t-elle.\n\nC'est tout ce que vous obtiendrez du Dr Chan. Retirez le jeton Personnage..
+EventSheriffPersuadeFail_Tile15.text,""Comme je vous disais, je ne peux quitter cet endroit. Je n'ai rien de mieux à vous offrir", vous dit-il. Vous ressentez une certaine culpabilité dans son regard..
+EventSheriffOfficeWhatsHappened_Tile15.text,""Honnêtement je ne sais pas. Cela s'est passé il y a quelques semaines. Un bateau a accosté au port et quand j'ai sollicité le maire, il m'a dit de ne pas m'en occuper. Donc naturellement, je me suis mis à poser des questions autour de moi. Visiblement un docteur prestigieux faisait juste une halte dans notre bourgade, mais j'ai trouvé un peu bizarre qu'elle soit encore là après une semaine.\n\nPeu importe, il y a environ une semaine, je déplaçais mon bateau pour l'amener à la révision, quand j'ai vu le groupe de chercheurs regagner hâtivement leur bateau et mettre les voiles. J'ai aussi trouvé bizarre qu'ils laissent la plupart de leur marchandise sur le quai, ainsi que des membres de leur équipe, derrière eux. Ils sont en bas avec le reste de la population, si vous voulez les rencontrer.\n\nLe jour même, plusieurs personnes ont rapporté que des personnes tombaient malade, une infirmerie d'urgence a été mise en place pour prendre en charge les gens. Quelques jours plus tard, la violence a déferlé dans les rues. Les habitants terrifiés se repliaient dans mon bureau pour être en sécurité. J'en ai accueilli le plus possible et j'ai commencé à diffuser un message pour inviter les gens à se réfugier ici.\n\nMais avec ces créatures rôdant dans les rues, j'ai dû bloquer la porte avec cette barricade. J'ai eu la malchance de rencontrer le groupe auquel vous avez eu à faire, et je suis sûr d'avoir reconnu certaines personnes sous ces traits déformés... "\n dit le Sheriff dans un soupir.\n\nRécupérez 1 jeton {clue}..
+EventBookStoreSpeakFriendlyKeeper1_Tile13.text,"Je n'ai jamais rien compris à cette chose, mais si vous l'ouvrez, le contenu est à vous" dit-il en vous tendant une boite à énigme.\n\nRécupérez l'Objet Unique {c:QItemPuzzleBox}.\n\nLes investigateurs peuvent interagir avec cet objet à partir de l'Inventaire de l'application.
+EventHoldingCellSpeakToScientist_Tile21.text,"Honnêtement, je suis rongée par la culpabilité." dit-elle en retenant ses larmes.\n\n"J'étais une scientifique de La Compagnie du Centaure. Experte en anatomie humaine, je travaillais sur une médecine peu intrusive: les sédatifs, les laxatifs et les remèdes contre la toux. Jusqu'à ma dernière assignation... Il y a quelques semaines-" elle marque une pause.\n\n"Il y a peu, le Dr Little demande à mon équipe et moi de commencer les tests sur une nouvelle substance. Les résultats sur l'animal étaient incroyables, renforçant leurs sens et leurs capacités physiques. Je subodorais un intérêt militaire compte tenu du secret autour de cette assignation." Elle vous regarde en fronçant les sourcils.\n\n"Puis elle a insisté pour que je procède à des essais sur les humains. J'ai essayé de m'y opposer. Nous n'avions pas assez de recul sur les effets à long terme. Cela aurait du prendre des semaines voire des mois. Mais je me refusais d'adhèrer à son ambition. J'ai tout plaqué ce jour-là, prétextant tomber malade, le Dr Little n'a même pas remarqué que j'étais partie, trop absorbée par ses expériences." Elle soupire.\n\n"J'aurais aimé faire quelque chose... Je ne pensais pas que ça irait si loin et que ce produit aurait de si terribles... effets secondaires. J'ai tout raconté au Sheriff Robin et je me cache ici depuis... Je suis tellement désolée." Vous apaisez ses sanglots.\n\n"Oh, le laboratoire, si jamais vous voulez arrêter..." Elle hésite.\n\n"Il se trouve juste à côté de la Ruelle Est, une affiche bleue sur le mur en face d'un petit appartement. Derrière, vous trouverez une brique descellée, il y a un interrupteur caché pour accéder au labo."
+EventHoldingCellPersuadeScientistFailed_Tile21.text,"""Je... Non... Je ne sais rien de plus. Faites attention à vous là dehors." dit-elle avant de vous laisser, pour rejoindre le groupe.\n\nRetirez le jeton Personnage..
+TokenBookShopExplore_Tile13.button2,{action} Tenter de casser la porte
+UISplashScreenText.uitext,<b>~Pression et Fardeau~</b>\n\nIl pleut des cordes alors que vous vous blottissez dans votre cabine. Au milieu de cet orage tout aussi inattendu que soudain, vous grelottez dans un froid saisissant. \n\nLe capitaine tient fermement la barre, essayant de maintenir le bateau le plus droit possible dans ces eaux démontées. Vous êtes parti tôt ce matin, prévoyant de naviguer tranquillement le long du fleuve Merricmac pour arriver tard au port de Newbury. Une seule escale, pour faire le plein, était prévue, mais à cause de la tempête, le Capitaine ne pouvait pas accoster. \n\nVos yeux sont rivés sur la jauge d'essence qui ne cesse de diminuer, vos nerfs commencent à lâcher. Le Capitaine porte son regard dans la même direction et semble devenir plus tendu à mesure que la sueur perle sur son front. \n\nVous bondissez vers le Capitaine et vous vous exclamez - "Lumières! On dirait un quai !" La tension s'atténue en vous imaginant un lit chaud et le ventre plein. \n\nLe navire crachote et fait une embardée, vous ne voyez pas grand chose, le Capitaine doit avoir une bonne vue.\n\nIl vous dit de vous préparer à amarrer.
+EventEnableHelpTokenExplain_REvent3.text,<i>Il vous sera demander de déplacer et de faire faire des actions à cette personne à chaque fin de tour. En conséquence ce jeton ne peut être géré par l'application. \n\nLaissez le jeton Personnage sur la case jusqu'à la prochaine indication.</i>
+TokenRentalBoat_Tile3.text,A côté de la cabane de location se trouve un empilement de bateaux.
+EventPlaceSheriffBacementExplore_Tile15.text,A l'arrière du Bureau, une porte. \n\nPlacez 1 jeton Exploration comme indiqué.
+TokenSheriffHoldingCellExplore_Tile15.text,A l'arrière du Bureau, une porte. Un écriteau indique : "Rangement et Cachots".
+SpawnZombieRiotSheriff_Tile15.text,A l'extérieur du bureau du Sheriff, un grand nombre de créatures gratte la porte.\n\nPosez les Émeutiers comme indiqué.
+EventInventoryListWind_Tile5.text,A mesure que vous vous approchez, la feuille de papier est soulevée par un vent tempétueux. Avant que vous ne puissiez l'attraper, elle est arrachée de la caisse et volete autour de vous.\n\nVous sautillez pour essayer de vous en emparer. Test {agility} (2)
+SpawnBigNastyBurnt_Tile14.text,A peine croyez-vous que la créature a péri, qu'elle lance ses longs membres pour prendre appui sur le cadre de la porte et passer à travers. Le montant de la porte ploie sous la pression et la créature grièvement brûlée émerge de la salle de test.\n\nPlacez le monstre unique la Terreur d'Ambersby.\n\n<i>Utilisez la figurine de l'Abomination de Dunwich pour symboliser le monstre.</i>
+EventLabNastyInvestigate_Tile15.text,A travers la fenetre, vous voyez une grosse masse de chair purulente. La masse, constituée de plusieurs membres difformes, se mutile en faisant de petits cercles. Vous regardez, avec une curiosité malsaine, les cadavres en train d'être absorbés pour venir grossir la masse de chair. Les os craquent, sont broyés puis dévorés. Vous avez un haut-le-cœur, subissez 1 Horreur face cachée.\n\nLa vue de ces horreurs renforcent votre détermination à mettre un terme à tout ça, devenez Concentré.
+EventLabNastyCureOrBurnOption_Tile15.button1,{action} Administrer le mélange
+TokenPlazaBody_Tile6.button1,{action} Aider l'homme
+SpawnWarehouseSpawnThrallNoisesAfterTokensLaid_Tile20.text,Alertée par le bruit, la créature se redresse sur ses pieds, vous fait face et grogne. Elle ne semble pas avoir d'yeux, mais un semblant de chair à la place. On dirait qu'elle se les est elle-même arrachés.\n\nPosez un Thrall sur la case indiquée.
+SpawnWarehouseSpawnThrallSmashNoises_Tile20.text,Alertée par le bruit, la créature se redresse sur ses pieds, vous fait face et grogne. Elle ne semble pas avoir d'yeux, mais un semblant de chair à la place. On dirait qu'elle se les est elle-même arrachés.\n\nPosez un Thrall sur la case indiquée.
+TokenBoatRadio_Tile1.button1,{action}Allumer la radio
+EventZombieRiotAttackMelee3_Tile15.text,Alors que vous martelez la tête d'une créature, une autre vous prend sur le flanc. Test {observation}. Si vous réussissez, vous la voyez arriver et esquivez son coup. Si vous échouez, vous ne remarquez pas le deuxième assaillant avant qu'il ne vous plante ses dents dans votre épaule, subissez 1 Dégât face cachée et 1 Horreur face cachée.
+EventEvadeBigNasty3.text,Alors que vous tentez de fuir, elle vous attrape le bras. Vous essayez de vous dégager.\n\nTest {strength} (2), si vous réussissez, vous la faites céder et vous vous libérez de son emprise, si vous échouez, elle resserre son étreinte, subissez 1 Dégât face et renoncez à votre action.
+EventEvadeBigNasty2.text,Alors que vous tentez de fuir, la créature émet le cri d'une douzaine d'âmes tourmentées. Test {will} (2), si vous réussissez vous renforcez votre détermination et reculez. Si vous échouez, vous êtes empli d'effroi, subissez 1 Horreur face cachée, devenez Entravé et renoncez à votre action.
+EventBeachItemSearch_Tile4.button2,Annuler
+EventLabBlueGreen_Tile14.button3,Annuler
+EventLabBlueOrange_Tile14.button3,Annuler
+EventLabBlueRed_Tile14.button3,Annuler
+EventLabBlueStabalizer_Tile14.button4,Annuler
+EventLabGreenBlue_Tile14.button3,Annuler
+EventLabGreenOrange_Tile14.button3,Annuler
+EventLabGreenRed_Tile14.button3,Annuler
+EventLabGreenStabalizer_Tile14.button4,Annuler
+EventLabNastyBurnOption_Tile15.button3,Annuler
+EventLabNastyCureOption_Tile15.button2,Annuler
+EventLabNastyCureOrBurnOption_Tile15.button4,Annuler
+EventLabOrangeBlue_Tile14.button3,Annuler
+EventLabOrangeGreen_Tile14.button3,Annuler
+EventLabOrangeRed_Tile14.button3,Annuler
+EventLabOrangeStabalizer_Tile14.button4,Annuler
+EventLabRedBlue_Tile14.button3,Annuler
+EventLabRedGreen_Tile14.button3,Annuler
+EventLabRedOrange_Tile14.button3,Annuler
+EventLabRedStabailzer_Tile14.button4,Annuler
+EventPuzzleBox.button2,Annuler
+EventReadManifest_PlayerInv.button2,Annuler
+EventSheriffOfficeSpeakFriendlyShrfOnlyHelp_Til15.button2,Annuler
+EventSheriffOfficeSpeakFriendShrfAllOptions_Tile15.button3,Annuler
+EventSheriffOffSpeakFriendShrfOnlyWhatsUp_Tile15.button2,Annuler
+SpawnLabZombie2_Tile14.text,Another creature is leaning over slurping from what appears to be a bathtub filled with blood and body parts.\n\nSpawn a Zombie comme indiqué
+UIInvestigationCompleteCureText.uitext,Après de longs et terribles moments à attendre que le brouillard se dissipe, vous pouvez enfin voir les restes de la masse. Une dizaine de silhouettes humaines ont partiellement fusionné et tressaille. En regardant les cadavres, une paire d'yeux semble vous fixer... Le temps d'un instant vous pensez voir une triste gratitude dans le regard qui s'évanouit... Les secondes passent puis les yeux se révulsent une dernière fois. La masse cesse de tressaillir complètement et devient aussi dure qu'une tombe.\n\nVous n'aurez pas été capable de sauver ces gens mais vous avez libéré la ville d'Ambersby.\n\nEn partant, vous prenez une pile de documents marquée comme "Confidentiel". Vous passez les jours suivants à collecter les diverses fioles, mélanger les solutions et les utiliser pour guérir les personnes à différents stades de l'infection. Il est tout particulièrement difficile de soumettre le traitement aux habitants ayant déjà subi "le changement". Mais l'ultime satisfaction reste l'éradication totale de ce mal.\n\nDans le confort d'une maison d'hôte, un soir, vous êtes assis à lire des papiers. Plusieurs précisions sont apportées sur les expériences. Ce qui attire surtout votre attention, ce sont les documents contenus dans un dossier parlant d'un "Projet Clarté". Ils détaillent les plans sur lesquels travaille le Dr Little au sein de son Sanatorium, tout ce dont vous avez besoin est contenu dans ces dossiers...\n\nFélicitations, vous avez éradiqué la mystérieuse peste d'Ambersby.\n(Bien joué, il s'agit de la fin la plus honorable pour Ambersby. Il y a trois autres fins alternatives.)
+EventHoldingCellRemoveScientist_Tile21.text,Après vous avoir tout dit, le Dr Chan sourit d'une mine sombre et retourne vers le groupe.\n\nRetirez le jeton Personnage.
+TokenNorthStreetTorches_REvent2.text,Assez haut, le long de la librairie "Couverture de Livres", plusieurs torches ont été attachées à la va-vite sur les murs. Vous remarquez que les lampadaires dans cette rue ne fonctionnent pas, et vous supposez que ces lumières temporaires sont là pour du court terme.\n\nUne traînée de fumée se distingue, le climat rigoureux ayant eu raison d'elles.\n\nUn investigateur avec une Source de Lumière peut tenter de les rallumer
+TokenDormantThrall_Tile20.button2,{action} Attaque de mêlée
+TokenDormantThrall_Tile20.button1,{action} Attaquer à distance
+SpawnShopSmashZombieSuccess_Tile08.text,Attirée par le bruit, une créature apparaît lourdement au coin de la rue.\n\nPlacez un Zombie.
+SpawnSmashBookShopZombieFail_Tile08.text,Attirée par le bruit, une créature avance lourdement au coin de la rue.\n\nPlacez un Zombie comme indiqué.
+EventPlaceAbandonedHouseExplore_Tile12.text,Au bout de la ruelle, une petite maison.\n\nPlacez 1 jeton Exploration comme indiqué.
+EventPlaceBellSearch_Tile2.text,Au bout du ponton, une grosse cloche permet probablement d'avertir les embarcations dans le brouillard.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceLabRearDoor_Tile15.text,Au fond du laboratoire, une porte entourée de deux grandes vitres d'observation.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceEastAlleyWarehouseSide_PlaceTile20.text,Au-delà, une ruelle sombre et oppressante.\n\nPlacez les tuiles {c:TileEastAlley_Tile9}, {c:TileEastAlley2_Tile11} et les jetons Mur comme indiqué.\n\nPlacez des jetons Obscurité sur toutes les cases.
+EventBeachItemSearch_Tile4.button1,{action} Avaler des pilules
+EventSheriffAskForHelp_Tile15.text,Avant de solliciter son aide, vous expliquez la panne d'essence de votre bateau et comment vous avez échoué sur cette île.\n\nLe Sheriff hésite mais semble comprendre votre situation. \n\n"Désolé... Je ne peux pas quitter cet endroit. Nous ne pouvons non plus déplacer tout ces gens dans cette tourmente. Je ne peux pas les abandonner. Mais... il y a un bidon d'essence au sous-sol. Prenez-le, ça vous aidera." vous répond-il.\n\nRécupérez 1 jeton {clue}.
+TokenPapersToken_Tile3.text,Les débris d'une chaise dans un coin de la pièce, une lutte a de toute évidence, eu lieu ici. Des papiers sont éparpillés sur le bureau et sur le sol, les murs sont recouverts d'éclaboussures de sang frais, mais vous ne voyez aucun corps.
+EventSnackShopZombieInvestigatorAttack4_REvent1.text,Avec une vitesse fulgurante, la créature vous charge tête baissée, vous prenant par surprise. Subissez 1 Dégât face cachée ({observation}-1 annule) en trébuchant pour être hors de sa trajectoire.
+EventSheriffOfficeReplaceFriendlySheriff_Tile15.text,Ayant épuisé tout les recours, vous rompez la discussion pour laisser le Sheriff vaquer à ses affaires. Il fait un signe de tête et retourne vers une meilleure position de défense derrière le comptoir.\n\nRetirez le jeton Personnage.
+TokenHoldingCellExit_Tile21.button2,{action} Briser le cadenas
+EventWarehouseCrate3replace3a_2_Tile20.button1,Button1
+UIBlueVialInspect.button1,Button1
+UIGreenVialInspect.button1,Button1
+UIOrangeVialInspect.button1,Button1
+UIRedVialInspect.button1,Button1
+EventRentalShopRemoveBellSearch_Tile2.text,Cela ne serait pas une très bonne idée de faire plus de bruit.\n\nRetirez le jeton Recherche comme indiqué.
+TokenWarehouseCrate_Tile20.text,Cela ressemble à une caisse de matériel médical. Elle est estampillée d'un logo sur le côté, représentant une créature mi-homme mi-cheval.
+TokenWarehouseCrate2_Tile20.text,Cela ressemble à une caisse de matériel médical. Elle est estampillée d'un logo sur le côté, représentant une créature mi-homme mi-cheval.
+TokenWarehouseCrate3_Tile20.text,Cela ressemble à une caisse de matériel médical. Elle est estampillée d'un logo sur le côté, représentant une créature mi-homme mi-cheval.
+UISplashClueText.uitext,Chaque investigateur débute avec 2 jetons {clue}.
+TokenDockBarrels_Tile2.button1,{action} Chercher dans les tonneaux
+UIInvestigatorPhaseText.uitext,Phase d'Investigation. Cliquer pour continuer.
+UISplashContinue.uitext,Commencer
+EventInvestigationCompleteCure.button1,Succès
+EventAbanHomeManTalk_Tile12.button1,Continuer
+EventAbanHomeManTalk2_Tile12.button1,Continuer
+EventAbanHouseAskCure_Tile12.button1,Continuer
+EventAbanHouseMoveIn_Tile12.button1,Continuer
+EventAbanHouseMoveIn.button1,Continuer
+EventAbanHouseSearchInvestigate_Tile12.button1,Continuer
+EventBeachItem_REvent7.button1,Continuer
+EventBeachItemEvent1_Tile4.button1,Continuer
+EventBeachItemEvent2_Tile4.button1,Continuer
+EventBeachItemEvent3_Tile4.button1,Continuer
+EventBeachItemEvent4_Tile4.button1,Continuer
+EventBeachItemEvent5_Tile4.button1,Continuer
+EventBeachItemEvent6_Tile4.button1,Continuer
+EventBerth3ClueDoc_Tile5.button1,Continuer
+EventBerth3TakeCandles_Tile5.button1,Continuer
+EventBerth3ViewPapers_PlayerInv.button1,Continuer
+EventBigNastyActivate.button1,Continuer
+EventBigNastyCanYouStillCureIt.button1,Continuer
+EventBigNastyHeal.button1,Continuer
+EventBigNastyMeleeAttack1.button1,Continuer
+EventBigNastyMeleeAttack2.button1,Continuer
+EventBigNastyMeleeAttack3.button1,Continuer
+EventBigNastyMoves1Space.button1,Continuer
+EventBigNastyPlaceEastAlly_Tile9.button1,Continuer
+EventBigNastyPlaceLab_Tile14.button1,Continuer
+EventBigNastyPlacePlaza_Tile6.button1,Continuer
+EventBigNastyRangeAttack1.button1,Continuer
+EventBigNastyRangeAttack2.button1,Continuer
+EventBigNastyRangeAttack3.button1,Continuer
+EventBigNastyRangeAttackAll.button1,Continuer
+EventBigNastyRangeAttackAll2.button1,Continuer
+EventBigNastyRemoveSearch_AfterSpawn.button1,Continuer
+EventBlackboardInspect.button1,Continuer
+EventBlueVialInspect.button1,Continuer
+EventBoatRadioFailed_Tile1.button1,Continuer
+EventBoatRadioSuccess_Tile1.button1,Continuer
+EventBoatSight_PlaceDock_PlaceTile2.button1,Continuer
+EventBoatTuneRadio_Tile1.button1,Continuer
+EventBoatTuneRadio_Tile1.button2,Continuer
+EventBookKnockToEnter_Tile08.button1,Continuer
+EventBookShopInfluanceFailed_Tile13.button1,Continuer
+EventBookShopTome_Tile13.button1,Continuer
+EventBookShopTomesFailed_Tile13.button1,Continuer
+EventBookShorePersuadeScaredShopKeep_Tile13.button1,Continuer
+EventBookStoreInflShopKeepFail_Tile13.button1,Continuer
+EventBookStoreInfluanceShopKeepSuccess_Tile13.button1,Continuer
+EventBookStoreIntimidateShopKeepFail_Tile13.button1,Continuer
+EventBookStoreIntimidateSucess_Tile13.button1,Continuer
+EventBookStoreSpeakFriendlyKeeper1_Tile13.button1,Continuer
+EventBookStoreSpeakFriendlyKeeperEND_Tile13.button1,Continuer
+EventBoyDropsLantern_REvent1.button1,Continuer
+EventBurnPuzzleComplete_Tile12.button1,Continuer
+EventBurntBigNastyDies.button1,Continuer
+EventCaptainGoesBelowDecks_Tile1.button1,Continuer
+EventCorpsePresentMonsterSpawnEnd_REvent.button1,Continuer
+EventCorpsePresentSpawnMonster_REvent.button1,Continuer
+EventDisableHelper_REvent3.button1,Continuer
+EventDockGet2x4_Tile2.button1,Continuer
+EventDockGet2x4Failed_Tile2.button1,Continuer
+EventEastAlleyHiddenDoorNoStealth_Tile9.button1,Continuer
+EventEastAlleyInvestigateHiddenSearch_Tile9.button1,Continuer
+EventEastAlleyInvestigateLabExplore_Tile11.button1,Continuer
+EventEastAlleyRemoveHiddenDoorSearch_Tile9.button1,Continuer
+EventEastAlleyRemoveWall_Tile9.button1,Continuer
+EventEastAlleySearchFailed_Tile9.button1,Continuer
+EventEastAlleySearchSucces_Tile9.button1,Continuer
+EventEnableHelp_REvent3.button1,Continuer
+EventEnableHelpTokenExplain_REvent3.button1,Continuer
+EventEnterOffice_Tile3.button1,Continuer
+EventEvadeBigNasty.button1,Continuer
+EventEvadeBigNasty1.button1,Continuer
+EventEvadeBigNasty2.button1,Continuer
+EventEvadeBigNasty3.button1,Continuer
+EventEvadeBigNasty4.button1,Continuer
+EventEvadeSheriff.button1,Continuer
+EventExplainBoatInteractMoveCam_Tile21.button1,Continuer
+EventGainInvestigatorJournal.button1,Continuer
+EventGreenVialInspect.button1,Continuer
+EventHelpCorpseBurn_Tile4.button1,Continuer
+EventHelperAttack1_REvent3.button1,Continuer
+EventHelperAttack2_REvent3.button1,Continuer
+EventHelperAttack3_REvent3.button1,Continuer
+EventHelperAttack4_REvent3.button1,Continuer
+EventHelperAttacksMiss_REvent3.button1,Continuer
+EventHelperCorpse.button1,Continuer
+EventHelperDies.button1,Continuer
+EventHelperMoves_REvent3.button1,Continuer
+EventHoldingCellBoxesWill_Tile21.button1,Continuer
+EventHoldingCellDoorOpen_Tile21.button1,Continuer
+EventHoldingCellHealerArrives_REvent5.button1,Continuer
+EventHoldingCellHealerPatchup1_Tile21.button1,Continuer
+EventHoldingCellHealerPatchUp2_Tile21.button1,Continuer
+EventHoldingCellMoveIn_Tile21.button1,Continuer
+EventHoldingCellMoveInAlley_Tile21.button1,Continuer
+EventHoldingCellOpenMetalCab_Tile21.button1,Continuer
+EventHoldingCellPadlockBreakFAIL_Tile21.button1,Continuer
+EventHoldingCellPadlockBreakSuccess_Tile21.button1,Continuer
+EventHoldingCellPersuadeScientistFailed_Tile21.button1,Continuer
+EventHoldingCellPersuadeScientistSuccess_Tile21.button1,Continuer
+EventHoldingCellPersuadeScientistSuccessWHopen_Tile21.button1,Continuer
+EventHoldingCellRemoveScientist_Tile21.button1,Continuer
+EventHoldingCellSpeakToScientist_Tile21.button1,Continuer
+EventHoldingCellSpeakToScientist2_Tile21.button1,Continuer
+EventHoldingCellSpeakToScientist2a_Tile21.button1,Continuer
+EventHoldingCellSpeakToScientist2b_Tile21_NOTUSED.button1,Continuer
+EventHolodingCellPuzzleComplete_Tile21.button1,Continuer
+EventHorrorBigNasty1.button1,Continuer
+EventHorrorBigNasty2.button1,Continuer
+EventHorrorBigNasty3.button1,Continuer
+EventInventoryListClueFailure_Tile5.button1,Continuer
+EventInventoryListClueSuccess_Tile5.button1,Continuer
+EventInvestigatePlazaBodySearch_Tile6.button1,Continuer
+EventKillBigNasty_Cured.button1,Continuer
+EventKnockShopInfluance_Tile13.button1,Continuer
+EventLabApparatusCompleteEASY_Tile15_NOTUSED.button1,Continuer
+EventLabApparatusFirstUseInvestigate_Tile14.button1,Continuer
+EventLabApparatusIncMixBad1_Tile12.button1,Continuer
+EventLabApparatusIncMixBad2_Tile12.button1,Continuer
+EventLabBoardInvestigate_Tile20.button1,Continuer
+EventLabCureCorrectMix_Tile14.button1,Continuer
+EventLabCureIncorrectMix_Tile14.button1,Continuer
+EventLabCurePuzzleComplete_Tile14.button1,Continuer
+EventLabCurePuzzleCompleteNastySpawned_Tile14.button1,Continuer
+EventLabMoveIn_Tile15.button1,Continuer
+EventLabNastyInvestigate_Tile15.button1,Continuer
+EventLabNastyInvestigateBossSpawned_Tile14.button1,Continuer
+EventLabPlaceBoard_Tile14.button1,Continuer
+EventLabPlaceFire_Tile12.button1,Continuer
+EventLabReplaceViewingWindow_Tile14.button1,Continuer
+EventLabVials_PlayerInv.button1,Continuer
+EventLabWhereStabalisers_Tile14.button1,Continuer
+EventLightsOutTorch_REvent2.button1,Continuer
+EventMoveBarricade.button1,Continuer
+EventMoveInOffice_Tile3.button1,Continuer
+EventMoveInToShop_Tile08.button1,Continuer
+EventMythosDeadly.button1,Continuer
+EventNastyIvestigateAgain_Tile15.button1,Continuer
+EventNorthStreeInvestigatePuddleSuccess_Tile17.button1,Continuer
+EventNorthStreetInvestigatePuddleFailed_Tile17.button1,Continuer
+EventNSLightsLightTorchSuccess_Tile8.button1,Continuer
+EventNSLightsOutLightFailed_Tile8.button1,Continuer
+EventNSLightsOutTakeTorchBalanceSuccess_Tile8.button1,Continuer
+EventNSLightsOutTakeTorchFailed_Tile8.button1,Continuer
+EventOpenWarehouseLockNoCode_PlaceTile20.button1,Continuer
+EventOpenWarehouseLockWithCode_Tile20.button1,Continuer
+EventOpenWarehouseLockWithScienceCode_Tile20.button1,Continuer
+EventPapersSearchToken_Tile3.button1,Continuer
+EventPharaCrate1Search_Tile5.button1,Continuer
+EventPlaceAbandonedHouseExplore_Tile12.button1,Continuer
+EventPlaceAbanHouse_PlaceTile12.button1,Continuer
+EventPlaceAbanHouseHomelessMan_Tile12.button1,Continuer
+EventPlaceAbanHouseSearch_Tile12.button1,Continuer
+EventPlaceBellSearch_Tile2.button1,Continuer
+EventPlaceBert3_PlaceTile3.button1,Continuer
+EventPlaceBerth3Sight_Tile3.button1,Continuer
+EventPlaceBoatEscapeInteract_Tile1.button1,Continuer
+EventPlaceBoatSight_Tile1.button1,Continuer
+EventPlaceBookShopExplore_Tile13.button1,Continuer
+EventPlaceBookShopKnocked_Tile13.button1,Continuer
+EventPlaceBookShopSearch_Tile13.button1,Continuer
+EventPlaceBookShopSmashed_PlaceTile08.button1,Continuer
+EventPlaceCabinetSearch_Tile3.button1,Continuer
+EventPlaceCandles_Berth3.button1,Continuer
+EventPlaceCoweringShopKeep_Tile13.button1,Continuer
+EventPlaceEastAlleyTile_PlaceTile09.button1,Continuer
+EventPlaceEastAlleyWarehouseSide_PlaceTile20.button1,Continuer
+EventPlaceEasyAlleyHiddenSearch_Tile9.button1,Continuer
+EventPlaceEasyAlleySearch_Tile9.button1,Continuer
+EventPlaceEasyAlleySight_Tile07.button1,Continuer
+EventPlaceFriendlySheriff_Tile15.button1,Continuer
+EventPlaceFriendlySheriffDropWeapons_Tile15.button1,Continuer
+EventPLaceHidDoorWarehouseThrallActive_Tile20.button1,Continuer
+EventPlaceHoldingCell_PlaceTile21.button1,Continuer
+EventPlaceHoldingCellBoxes_Tile21.button1,Continuer
+EventPlaceHoldingCellCrate_Tile15.button1,Continuer
+EventPlaceHoldingCellExit_Tile21.button1,Continuer
+EventPlaceHoldingCellFuel_Tile15.button1,Continuer
+EventPlaceHoldingCellMetalCabinet_Tile21.button1,Continuer
+EventPlaceHoldingCellPeopleGroup_Tile21.button1,Continuer
+EventPlaceInvestigators_Tile1.button1,Continuer
+EventPlaceLabCratesWithWH_Tile20.button1,Continuer
+EventPlaceLabEquipment_Tile14.button1,Continuer
+EventPlaceLabExploreScientistDialog_Tile11.button1,Continuer
+EventPlaceLabRearDoor_Tile15.button1,Continuer
+EventPlaceLabStabalizers_Tile20.button1,Continuer
+EventPlaceNorthStreet_PlaceTile08.button1,Continuer
+EventPlaceNorthStreetEndSight_Tile8.button1,Continuer
+EventPlaceNorthStreetSight_Tile07.button1,Continuer
+EventPlaceNorthStreetSpell_REvent9.button1,Continuer
+EventPlaceOfficeExplore_Tile3.button1,Continuer
+EventPlacePharmaCreatesToken_Tile5.button1,Continuer
+EventPlacePlazaBodySearch_Tile6.button1,Continuer
+EventPlacePlazaFountainSearch_REvent6.button1,Continuer
+EventPlacePlazaSight_Tile5.button1,Continuer
+EventPlacePlazaTile_PlaceTile6.button1,Continuer
+EventPlaceRadio_Tile1.button1,Continuer
+EventPlaceRentalBoatsSearch_Tile3.button1,Continuer
+EventPlaceSearchBarrel_Tile2.button1,Continuer
+EventPlaceSearchBeach_Tile4.button1,Continuer
+EventPlaceSecretLabExploreIfKnown_Tile11.button1,Continuer
+EventPlaceSheriffBacementExplore_Tile15.button1,Continuer
+EventPlaceSheriffBarricadeHostile_Tile15.button1,Continuer
+EventPlaceSheriffFriendly_Tile15.button1,Continuer
+EventPlaceSheriffOffice_PlaceTile15.button1,Continuer
+EventPlaceSheriffOfficeExplore_Tile15.button1,Continuer
+EventPlaceSheriffStreet_PlaceTile16.button1,Continuer
+EventPlaceShopKeepHappy_Tile13.button1,Continuer
+EventPlaceSignSearch_Tile6.button1,Continuer
+EventPlaceWarehouseEastAlley_Tile20.button1,Continuer
+EventPlaceWarehouseExplore_Tile16.button1,Continuer
+EventPlaceWarehouseHidDoor_Tile20.button1,Continuer
+EventPlaceWarehouseHidDoorThrallDormant_PlaceTile20.button1,Continuer
+EventPlaceWarehouseLockedChest_Tile_20.button1,Continuer
+EventPlaceWarehouseStealth_PlaceTile20_NotUsed.button1,Continuer
+EventPlazaBodyBurnCorpse_Tile6.button1,Continuer
+EventPlazaBodyItemBad_Tile6.button1,Continuer
+EventPlazaBodyItemFocus_Tile6.button1,Continuer
+EventPlazaInvestigateGlowFailed_Tile6.button1,Continuer
+EventPlazaInvestigateGlowPassed_Tile6.button1,Continuer
+EventPlazaManDies_REvent0.button1,Continuer
+EventPlazaManDies2_REvent0.button1,Continuer
+EventPlazaSignSearch_Tile06.button1,Continuer
+EventPostItInspect.button1,Continuer
+EventPuzzleBoxComplete.button1,Continuer
+EventReadInvestigatorJournalNothing.button1,Continuer
+EventReadManifestFirst_PlayerInv.button1,Continuer
+EventReadManifestInfo_PlayerInv.button1,Continuer
+EventReadManifestInfo2_PlayerInv.button1,Continuer
+EventReadManifestInventory_PlayerInv.button1,Continuer
+EventReadManifestMoorings_PlayerInv.button1,Continuer
+EventRedVialInspect.button1,Continuer
+EventRemoveCorpseAfterMonsters2_REvent.button1,Continuer
+EventRemoveCorpseAfterMonsters3_Revent.button1,Continuer
+EventRemoveCorpsesAfterMonsters_REvent.button1,Continuer
+EventRemoveInvestigatorToken_Tile1.button1,Continuer
+EventRentalShopRemoveBellSearch_Tile2.button1,Continuer
+EventScientistDiagWarehouseEntered_Tile21.button1,Continuer
+EventSearchOfficePapers_Tile3.button1,Continuer
+EventSearchShelvesHidDoorFailed_Tile_20.button1,Continuer
+EventSearchShelvesHidDoorNoStealth_Tile_20.button1,Continuer
+EventSetVARS_PlaceBoat_PlaceTile1.button1,Continuer
+EventSheriffAskForHelp_Tile15.button1,Continuer
+EventSheriffAttack1.button1,Continuer
+EventSheriffAttack2.button1,Continuer
+EventSheriffAttack3.button1,Continuer
+EventSheriffAttack4.button1,Continuer
+EventSheriffDies.button1,Continuer
+EventSheriffHorrorDropWeapons.button1,Continuer
+EventSheriffNoTarget.button1,Continuer
+EventSheriffOfficeBarricade_Tile15.button1,Continuer
+EventSheriffOfficeKNOCKriotactive_Tile15.button1,Continuer
+EventSheriffOfficeMoveBrricadeSheriffDead_Tile15.button1,Continuer
+EventSheriffOfficeMoveIn_Tile15.button1,Continuer
+EventSheriffOfficeRemoveBarricade_Tile15.button1,Continuer
+EventSheriffOfficeReplaceFriendlySheriff_Tile15.button1,Continuer
+EventSheriffOfficeSMASHDoorFailed_Tile15_Unused.button1,Continuer
+EventSheriffOfficeSMASHDoorSuccess_Tile15.button1,Continuer
+EventSheriffOfficeSMASHMoveBarricade2_Tile15.button1,Continuer
+EventSheriffOfficeWhatsHappened_Tile15.button1,Continuer
+EventSheriffOfKNOCKInfluanceFail_Tile15.button1,Continuer
+EventSheriffOfKnockInfluanceSuccess_Tile15.button1,Continuer
+EventSheriffOfSMASHMoveBarricade_Tile15.button1,Continuer
+EventSheriffPersuadeFail_Tile15.button1,Continuer
+EventSheriffPersuadeSuccess_Tile15.button1,Continuer
+EventSheriffRobinsPostAttackDialog.button1,Continuer
+EventSheriffsOfficeFailedSmash_Tile15.button1,Continuer
+EventSignPostInspect.button1,Continuer
+EventSmashBookShopFail_Tile08.button1,Continuer
+EventSmashBookshopSuccess_Tile08.button1,Continuer
+EventSmashCabinetFailure_Tile03.button1,Continuer
+EventSmashCabinetSuccess_Tile3.button1,Continuer
+EventSnackShackZombieAttacksInvestigators_REvent1.button1,Continuer
+EventSnackShopBurnBody_Revent.button1,Continuer
+EventSnackShopZombieActivation_REvent1.button1,Continuer
+EventSnackShopZombieBatterDoor_Revent1.button1,Continuer
+EventSnackShopZombieBoyDies_Revent1.button1,Continuer
+EventSnackShopZombieBoySaved_REvent1.button1,Continuer
+EventSnackShopZombieBreaksDoor_Revent1.button1,Continuer
+EventSnackShopZombieCorpse_Revent1.button1,Continuer
+EventSnackShopZombieDiesBoyAlive_Revent1.button1,Continuer
+EventSnackShopZombieInvestigatorAttack1_REvent1.button1,Continuer
+EventSnackShopZombieInvestigatorAttack2_REvent1.button1,Continuer
+EventSnackShopZombieInvestigatorAttack3_REvent1.button1,Continuer
+EventSnackShopZombieInvestigatorAttack4_REvent1.button1,Continuer
+EventSnackshopZombieInvestigatorsNoRange_REvent1.button1,Continuer
+EventSnackShopZombieMoves_Revent1.button1,Continuer
+EventStart_REvent1.button1,Continuer
+EventStart_REvent2.button1,Continuer
+EventStartGame.button1,Continuer
+EventTimesRunningOut.button1,Continuer
+EventUnlockCabinetSuccess_Tile3.button1,Continuer
+EventWarehouseCrateInvestigate_2_Tile20.button1,Continuer
+EventWarehouseCrateInvestigate2_Tile20.button1,Continuer
+EventWarehouseInvestigateMedCrate_Tile20.button1,Continuer
+EventWarehouseLockedChestSmashStealth_Tile_20.button1,Continuer
+EventWarehouseLockedChestThrallActive_Tile20.button1,Continuer
+EventWarehouseMoveIn_Tile20.button1,Continuer
+EventWarehouseMoveInEastAlley_Tile20.button1,Continuer
+EventWarehousePickLockFailed_Tile_20.button1,Continuer
+EventWarehousePickLockSuccess_Tile20.button1,Continuer
+EventWarehouseSearchShelvesHidDoorSuccess_Tile20.button1,Continuer
+EventWarehouseSmashChestFailedStealth_Tile_20.button1,Continuer
+EventWarehouseSmashChestNoStealth_Tile_20.button1,Continuer
+EventWarehouseSmashChestStealthContents_Tile20.button1,Continuer
+EventWarehouseSmashChestSuccessStealth_Tile20_NOTUSED.button1,Continuer
+EventWarehouseSmashDoorFailed_Tile20.button1,Continuer
+EventWarehouseSmashedInSuccess_Tile20.button1,Continuer
+EventWHPlaceHiddenDoorScientist_Tile20.button1,Continuer
+EventZombieRiotActivation_Tile15.button1,Continuer
+EventZombieRiotAttackMelee1_Tile15.button1,Continuer
+EventZombieRiotAttackMelee2_Tile15.button1,Continuer
+EventZombieRiotAttackMelee3_Tile15.button1,Continuer
+EventZombieRiotAttackMeleeAll_Tile15.button1,Continuer
+EventZombieRiotAttackRange1_Tile15.button1,Continuer
+EventZombieRiotAttackRange2_Tile15.button1,Continuer
+EventZombieRiotAttackRangeAll_Tile15.button1,Continuer
+EventZombieRiotEvade_Tile15.button1,Continuer
+EventZombieRiotEvade1_Tile15.button1,Continuer
+EventZombieRiotEvade2_Tile15.button1,Continuer
+EventZombieRiotEvade3_Tile15.button1,Continuer
+EventZombieRiotHorror_Tile15.button1,Continuer
+EventZombieRiotHorror1_Tile15.button1,Continuer
+EventZombieRiotHorror2_Tile15.button1,Continuer
+EventZombieRiotHorror3_Tile15.button1,Continuer
+EventZombieRiotHorror4_Tile15.button1,Continuer
+EventZombieRiotNoRangeMoves_Tile15.button1,Continuer
+SpawnAbanHouseZombie_Tile12.button1,Continuer
+SpawnBeachHutMonster_Tile3.button1,Continuer
+SpawnBellZombie_Tile3.button1,Continuer
+SpawnBigNasty_CureAfterSpawn.button1,Continuer
+SpawnBigNastyBurnt_Tile14.button1,Continuer
+SpawnBigNastyTooSlow_Tile14.button1,Continuer
+SpawnCorpsesSpawnDeepOne_REvent.button1,Continuer
+SpawnCorpsesSpawnThrallEastAlley_REvent.button1,Continuer
+SpawnLabZombie0_Tile14.button1,Continuer
+SpawnLabZombie1_Tile14.button1,Continuer
+SpawnLabZombie2_Tile14.button1,Continuer
+SpawnLabZombie3_Tile14.button1,Continuer
+SpawnPlaceAngrySheriff_Tile15.button1,Continuer
+SpawnRentalBoatZombie_Tile3.button1,Continuer
+SpawnShopSmashZombieSuccess_Tile08.button1,Continuer
+SpawnSmashBookShopZombieFail_Tile08.button1,Continuer
+SpawnSnackShopZombie_REvent1.button1,Continuer
+SpawnSpawnDeepOneBerth3_REvent.button1,Continuer
+SpawnWarehouseAttackThrallMFailed_Tile20.button1,Continuer
+SpawnWarehouseSpawnThrallNoisesAfterTokensLaid_Tile20.button1,Continuer
+SpawnWarehouseSpawnThrallRAttackFailed_Tile20.button1,Continuer
+SpawnWarehouseSpawnThrallSmashNoises_Tile20.button1,Continuer
+SpawnWarehouseSpawnWeakenedThrallSuccessAttack_Tile20.button1,Continuer
+SpawnZombieRiotSheriff_Tile15.button1,Continuer
+TokenHelper_REvent3.button1,Continuer
+TokenLabBigNastyRoom_Tile14.button1,Continuer
+TokenNorthStreetSight_Tile7.button1,Continuer
+TokenSnackShopBoy_REvent1.button1,Continuer
+UIBlackboardInspect.button1,Continuer
+UICentaurCrate_Tile20.button1,Continuer
+UIInventoryPapersInspect.button1,Continuer
+UILabVials_Tile14.button1,Continuer
+UIPlazaMan_Photo.button1,Continuer
+UIPostItBottom.button1,Continuer
+UIPostItFull.button1,Continuer
+UISplashClueContinue.uitext,Continuer
+UISplashContinue.button1,Continuer
+UISplashScreenText.button1,Continuer
+TokenEastAlleyHiddenDoor_Tile9.text,Contre le mur dans l'Allée Est, une affiche bleue similaire à celle dissimulant l'entrée du Laboratoire.
+EventWarehouseLockedChestThrallActive_Tile20.text,Contre le mur latéral, une armoire fermée.\n\nPlacez un jeton Recherche comme indiqué.
+TokenLabBoardStabilizer_Tile14.text,Contre le mur, un tableau semble contenir des instructions et des formules.
+EventPlaceHoldingCellMetalCabinet_Tile21.text,Contre le mur, une armoire métallique.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceWarehouseLockedChest_Tile_20.text,Contre le mur, une armoire verrouillée.
+TokenEastAlleySight_Tile7.text,Côté Est de l'esplanade cela mène dans une ruelle sombre.\n\nLes investigateurs sur la tuile Angle de Rue 3  peuvent explorer ce jeton.
+TokenWarehouseLockedChest_Tile20.button2,{action} Crocheter
+EventLabBoardInvestigate_Tile20.text,Dans le coin en haut du tableau, un logo représentant un Centaure.\n\nVous êtes incapable de comprendre, hors contexte, les traces effacées de différentes formules. Au-dessous, en gras, est écrit :\n\n<b>Utiliser le stabilisateur #9252 à la fin des combinaisons</b>\n\nRécupérez 1 jeton {clue}.\n\nVous copiez grossièrement ces indications dans votre journal.\n\nLes investigateurs peuvent relire les preuves collectées en interagissant avec le Vieux Journal dans l'Inventaire de l'application.\n\nRetirez le jeton Recherche.
+EventPlaceHoldingCellExit_Tile21.text,Dans le coin supérieur de la zone de rangement, une fenêtre avec des barreaux.\n\nPlacez un jeton Recherche comme indiqué.
+EventBoyDropsLantern_REvent1.text,Dans son élan la fille semble avoir fait tomber une lanterne du Snack. \n\nPlacez l'Objet {c:QItemLantern} sur la case indiquée.
+EventPlaceHoldingCellFuel_Tile15.text,Dans un autre coin, une armoire en métal.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceHoldingCellCrate_Tile15.text,Dans un coin il y plusieurs boites.\n\nPlacez un jeton Recherche comme indiqué
+EventPlaceWarehouseHidDoorThrallDormant_PlaceTile20.text,De l'autre côté de la pièce une imposante silhouette est penchée sur un corps et regarde dans votre direction. 
+EventPapersSearchToken_Tile3.text,De nombreux papiers sont éparpillés sur le sol.\n\nPlacez un jeton Recherche comme indiqué.
+TokenSheriffExplore_Tile15.button2,{action} Demander à entrer
+EventSheriffOfficeSpeakFriendShrfAllOptions_Tile15.button1,{action} Demander ce qui est arrivé
+EventSheriffOffSpeakFriendShrfOnlyWhatsUp_Tile15.button1,{action} Demander ce qui est arrivé
+EventSheriffOfficeSpeakFriendlyShrfOnlyHelp_Til15.button1,{action} Parler d'aide
+EventSheriffOfficeSpeakFriendShrfAllOptions_Tile15.button2,{action} Parler d'aide
+TokenHealerEnabled_REvent5.button1,{action} Demander de l'aide
+EventPlaceWarehouseEastAlley_Tile20.text,Derrière la porte cachée, vous voyez un dépôt aménagé à la hâte en infirmerie. Des corps immobiles jonchent le sol sur des civières ou des lits de fortune.\n\nPlacez la tuile {c:TileWarehouse_Tile20} et les jetons Mur comme indiqué.\n\nRetirez les jetons Explorations menant à cet endroit.
+TokenHoldingCellPeopleSearch_Tile21.text,Derrière les portes ouvertes du cachot, des habitants parlent à voix basse. Peu d'entre eux semblent désireux d'engager la conversation, vous vous attardez sur un individu portant une longue blouse.\n\nRetirez le jeton Recherche.\n\nPlacez 1 jeton Personnage comme indiqué, il s'agit du Dr Chan.
+EventPlacePlazaSight_Tile5.text,Derrière les quais, des marches mènent à une esplanade pavée.
+TokenHoldingCellExit_Tile21.button1,{action} Déverrouiller le cadenas
+EventBurnPuzzleComplete_Tile12.text,Du verre brisé se répand dans la pièce quand vous cassez les grandes fenêtres. En évitant les mouvements de la créature, vous l'aspergez d'essence.\n\nVous reculez puis frottez une allumette pour la jeter ensuite dans la pièce.\n\nLa créature couine par sa douzaine de bouches quand sa peau crépite et se carbonise. Elle se contorsionne et se débat en essayant de frapper tout ce qui est portée. Une écœurante odeur de chair brûlée emplit la pièce. \n\nRetirez le jeton Recherche.
+EventSmashCabinetOffice_Tile3.button2,Échec
+EventBookStoreIntimidateShopKeep_Tile13.button2,Échec
+EventBookStorePersuadeScaredShopKeep_Tile13.button2,Échec
+EventBookStoreSearchInvestigate_Tile13.button2,Échec
+EventBookStoreSpeakFriendlyKeeper2_Tile13.button2,Échec
+EventEastAlleyHiddenDoorStealth_Tile9.button2,Échec
+EventEastAlleySearchInvestigate_Tile9.button2,Échec
+EventHoldingCellSmashPadlock_Tile21.button2,Échec
+EventHoldingCellSpeakToScientist3_Tile21.button2,Échec
+EventInventoryListWind_Tile5.button2,Échec
+EventKnockShopInfluance_Tile13.button2,Échec
+EventNorthStreetInvestigatePuddle_Tile17.button2,Échec
+EventNorthStreetInvestigatePuddle_Tile17.text,Un morceau de papier est partiellement immergé dans la flaque. Vous tentez de le récupérer délicatement pour éviter d'abîmer davantage le texte. Test {lore} (2).
+EventNorthStreetLightsTakeTorch_Tile8.button2,Échec
+EventNSLightsLightTorches_Tile8.button2,Échec
+EventPlazaInvestigateGlow_Tile6.button2,Échec
+EventSearchBarrel_Tile2.button2,Échec
+EventSearchShelvesHidDoorStealth_Tile_20.button2,Échec
+EventSheriffOfficePersuadeSherrif_Tile15.button2,Échec
+EventSheriffOfKNOCKInfluanceEASY_Tile15.button2,Échec
+EventSheriffOfKNOCKInfluanceHard_Tile15.button2,Échec
+EventSheriffsOfficeSMASHdoor_Tile15.button2,Échec
+EventSmashShopCheck_Tile08.button2,Échec
+EventWarehousAttemptBreakIn_Tile_20.button2,Échec
+EventWarehouseAttackThrallMelee_Tile20.button2,Échec
+EventWarehouseAttackThrallRanged_Tile_20.button2,Échec
+EventWarehouseLockedChestSmash_Tile20.button2,Échec
+EventWarehousePickLock_Tile20.button2,Échec
+CustomMonsterZombieRiot.monstername,Émeutiers Zombies
+EventInvestigatePlazaBodySearch_Tile6.text,En arrivant près de lui, vous constatez ne lui être d'aucun secours, il émet un dernier râle et s’effondre complètement Il semble avoir échappé à ce qui l'a attaqué, non sans avoir subi de blessures mortelles.\n\nPrès de lui repose un petit sac que vous fouillez pour trouver quelque chose d'intéressant.\n\nRécupérez l'Objet commun {c:QItemItem_Tile6} et retirez le jeton Recherche.
+EventSearchShelvesHidDoorNoStealth_Tile_20.text,En faisant coulisser l'étagère vous révélez une porte cachée.\n\nRetirez le jeton Mur pour découvrir la porte comme indiqué.
+SpawnRentalBoatZombie_Tile3.text,En faisant le tour des bateaux, vous tombez sur une créature morbide. Elle grogne en vous voyant, puis se met à tituber vers vous.\n\nComme vous avez le dessus, vous la frappez. Vous entendez le craquement des os quand vous touchez son torse.\n\nPlacez un Zombie à l'endroit indiqué, il subit 1 Dégât.\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Recherche.
+TokenHoldingCellExit_Tile21.text,En hauteur dans l'angle de la zone de rangement, une fenêtre avec des barreaux. Un solide verrou empêche de l'ouvrir. Si vous l'ouvrez, vous pourriez grimper pour passer à travers.
+EventHoldingCellOpenMetalCab_Tile21.text,En ouvrant l'armoire, vous remarquez un bidon plein d'essence, vous le prenez et refermez la porte.\n\nRécupérez l'Objet Unique {c:QItemQItemFuelCan}, il symbolise le bidon d'essence.\n\nRetirez le jeton Recherche.
+EventBigNastyCanYouStillCureIt.text,En regardant la bête géante, vous vous doutez qu'il faudra mener un combat intense pour la mettre au sol. \n\nEn repensant à l'appareillage que vous avez vu plus tôt, vous vous demandez s'il ne pourrait pas avoir une quelconque utilité pour la détruire une bonne fois pour toute.
+EventSearchShelvesHidDoorStealth_Tile_20.text,En regardant par-dessus votre épaule, vous êtes soulagé que la créature ne vous ait pas remarqué.\n\nVous tentez de déplacer les rayonnages. Test {agility} (2)
+EventEnterOffice_Tile3.text,En vous approchant de la porte vous évitez précautionneusement de toucher ce qui pourrait bien être du sang. La porte cassée émet un grincement quand vous la poussez.\n\nLe bureau sombre paraît vide et une odeur de sang frais plane dans l'air.\n\nRetirez le jeton Exploration.
+EventBigNastyInvestigateFirst_Tile12.button1,{action} Enquêter
+EventLabNastyBurnOption_Tile15.button2,{action}	Enquêter
+EventLabNastyCureOrBurnOption_Tile15.button3,{action} Enquêter
+TokenAbanHouseSearch_Tile12.button1,{action} Enquêter
+TokenBeachSearch_Tile4.button1,{action} Enquêter
+TokenBerth3Candles_Tile5.button1,{action} Enquêter
+TokenBerth3Sight_Tile3.button1,Enquêter
+TokenBoatSight_Tile1.button1,Enquêter
+TokenBookStoreSearch_Tile13.button1,{action} Enquêter
+TokenCommonItemInCrate_REvent7.button1,Enquêter
+TokenEastAlleyHiddenDoor_Tile9.button1,{action} Enquêter
+TokenEastAlleySearch_Tile9.button1,{action} Enquêter
+TokenEastAlleySight_Tile7.button1,Enquêter
+TokenElderWardItem_REvent6.button1,{action} Enquêter
+TokenHoldingCellBoxes_Tile21.button1,{action} Enquêter
+TokenHoldingCellMetalCabinet_Tile21.button1,{action} Enquêter
+TokenLabBigNastyRoomBossSpawned_Tile14.button1,Enquêter
+TokenLabBoardStabilizer_Tile14.button1,{action} Enquêter
+TokenLabEquipmentFirst_Tile14.button1,{action} Enquêter
+TokenNorthStreetEndSight_Tile8.button1,Enquêter
+TokenPlazaSightToken_Tile6.button1,Enquêter
+TokenPlazaSignPostSearch_Tile6.button1,{action}	Enquêter
+TokenScrapOfSpell_REvent9.button1,{action} Enquêter
+TokenSecretLabExplore_Tile11.button1,{action} Enquêter
+TokenSheriffHoldingCellExplore_Tile15.button1,{action} Enquêter
+TokenWarehouseCrate_Tile20.button1,{action} Enquêter
+TokenWarehouseCrate2_Tile20.button1,{action} Enquêter
+TokenWarehouseCrate3_Tile20.button1,{action} Enquêter
+TokenAbandonedHouseExplore_Tile12.button1,{action} Entrer dans la maison
+TokenOfficeDoor_Tile3.button1,{action} Entrer dans la cabane
+TokenCabinetToken_Tile3.button2,{action} Essayer de crocheter la serrure
+TokenCabinetToken_Tile3.button1,{action} Essayer de forcer la serrure
+TokenScaredShopKeep_Tile13.button2,{action} Essayer de présenter vos excuses
+TokenWarehouseLockedChest_Tile20.button1,{action} Défoncer la porte
+TokenBoatEscape_Tile1.button1,{action} Faire le plein
+TokenWarehouseHidDoorSearch_Tile20.button1,{action} Fouiller les étagères
+TokenBookShopExplore_Tile13.button1,{action} Frapper à la porte
+EventBigNastyRemoveSearch_AfterSpawn.text,Il n'y a rien de plus à faire dans la salle de test\n\nRetirez le jeton Recherche.
+EventPlaceLabCratesWithWH_Tile20.text,Il y a plusieurs caisses marquées d'un logo symbolisant une créature, mi-homme mi-cheval.\n\nPlacez 3 jetons Recherche comme indiqué.
+EventEastAlleyHiddenDoorNoStealth_Tile9.text,Il y a plusieurs étagères recouvertes de papiers poussiéreux derrière la porte secrète. Vous les poussez sur le côté.\n\nRetirez les jetons Recherche et Mur comme indiqué.
+EventEastAlleyHiddenDoorStealth_Tile9.text,Il y a plusieurs étagères recouvertes de papiers poussiéreux derrière la porte secrète. Vous tentez de les pousser sur le côté. Test {agility}(2).
+TokenWarehouseHidDoorSearch_Tile20.text,Il y a plusieurs rayonnages contre le mur, chacun d'eux comporte de nombreuses feuilles éparpillées sur le dessus. L'une de ces feuilles poussiéreuses, une apparente proposition pour un projet, frémit doucement.
+TokenDockBarrels_Tile2.text,Il y a plusieurs tonneaux sur le quai.
+EventPlaceSearchBarrel_Tile2.text,Il y a plusieurs tonneaux sur le quai.\n\nPlacez un jeton Recherche comme indiqué.
+EventLabNastyCureOrBurnOption_Tile15.button2,{action} Incendier la salle de test
+TokenScaredShopKeep_Tile13.button1,{action} Intimider le gérant
+EventBigNastyHorror.button1,Investigateurs à portée
+EventSheriffAttack.button1,Investigateurs à portée
+EventScientistDiagWarehouseEntered_Tile21.text,Vous ne tirerez rien de plus du Dr Chan. \nN'utilisez pas d'{action} pour ce dialogue.\n\nRetirez le jeton Personnage.
+EventReadInvestigatorJournalNothing.text,Jusqu'à présent tout ce que vous avez écrit est le titre "Ambersby".
+TokenBeachSearch_Tile4.text,L'abri repose sur des pilotis, la porte est entrouverte. Vous percevez des chuchotements venir de l'intérieur.
+EventPlaceBert3_PlaceTile3.text,L'accostage 3 est un petit appontement sur le côté de la cabane.\n\nPlacez la tuile {c:TileBerth3_Tile5}.\n\nRetirez le jeton Vue.
+EventLabApparatusFirstUseInvestigate_Tile14.text,L'appareillage est compliqué, il y a trois emplacements vides prêts à accueillir des flacons de liquide. Le premier indique "Partie 1", le deuxième "Partie 2" et le dernier "Stabilisateur".\n\nSur l'étagère au-dessus de la machine, une rangée de fioles, malheureusement non – étiquetées\n\nSur une table, à côté de la machine, il y a un flacon Orange avec le nombre #2734 dessus. Vous le prenez, récupérez l'Objet Unique {c:QItemVials}.\n\nRécupérez 1 jeton {clue}.\n\nVous pouvez inspecter cette fiole ainsi que toutes les autres en interagissant avec l'objet {c:QItemVials} dans l'Inventaire de l'application.
+TokenSecretLabEquipmentUse_Tile14.text,L'appareillage paraît compliqué, il y a trois emplacements vides pour vraisemblablement accueillir des fioles de liquide. Le premier est marqué "Partie 1", le second "Partie 2" et le dernier "Stabilisateur".\n\nSur le dessus de la machine une rangée de fioles, inutiles car non étiquetées.\n\nPour démarrer, vous vous demandez d'abord quelle fiole vous pouvez bien introduire dans l'emplacement "Stabilisateur".
+TokenCabinetToken_Tile3.text,L'armoire massive est verrouillée par un tout aussi robuste cadenas.
+EventSnackShopZombieInvestigatorAttack3_REvent1.text,L'attaque de la créature est malhabile et vous levez un bras pour bloquer son coup. Dans un craquement ignoble, le membre cassé claque et vous touche à l'épaule, subissez 1 Dégât face cachée et 1 Horreur face cachée ({will} annule).
+TokenBerth3Sight_Tile3.text,L'embarcadère continue derrière la cabane, un écriteau indique : "Quai 3".\n\nLes investigateurs sur la tuile {c:TileDockShop_tile3} peuvent interagir avec ce jeton.
+TokenBookShopExplore_Tile13.text,L'enseigne indique "Couverture de Livres".\n\nLa porte semble barricadée de l'intérieur et toutes les lumières sont éteintes, cependant vous entendez malgré tout quelqu'un pleurnicher dedans.
+EventPlacePlazaTile_PlaceTile6.text,L'esplanade semble peu entretenue, du sable a été ramené pour former çà et là de petits tas et de l'herbe pousse entre les pavés. Au centre se tient une fontaine ornée. \n\nPlacez les tuiles Place de la Ville   et Angle de Rue 3  et retirez le jeton Vue.
+EventPlaceSheriffStreet_PlaceTile16.text,L'état de la rue devient graduellement défraîchi, laissant suposer que cette partie est plus beaucoup plus fréquentée que les autres.\n\nPlacez les tuiles {c:TileSheriffOfficeFront_Tile15} et {c:TileStreetEnd_Tile16} comme indiqué.\n\nRetirez le jeton Vue.
+EventRedVialInspect.text,L'étiquette sur la fiole contenant un mélange Rouge indique "9252".
+EventHelperAttack2_REvent3.text,L'homme envoie une rafale de tirs devant lui, sur le plus grand groupe de monstres.\n\nChoisissez une case à portée qui contienne au moins 1 monstre et le plus de figurines possible (investigateurs compris). \n\nLes balles perforent le monstre sur la case, qui subit 3 Dégâts.\n\nLes balles perdues touchent des cibles secondaires, provoquant 1 Dégât à tout les investigateurs ou monstres sur la même case.
+EventHelperAttack1_REvent3.text,L'homme met un genou à terre et vise. Son tir est précis et il lui en suffit d'un seul pour toucher le monstre.\n\nAjoutez 3 Dégâts à un monstre à portée.\n\n<i>Les investigateurs peuvent choisir la cible si plusieurs monstres sont à portée.</i>
+EventHelperAttack3_REvent3.text,L'homme met un genou à terre et viset. Son tir est précis et il lui en suffit d'un seul pour toucher le monstre.\n\nAjoutez 3 Dégâts à un monstre à portée.\n\n<i>Les investigateurs peuvent choisir la cible si plusieurs monstres sont à portée.</i>
+EventHelperMoves_REvent3.text,L'homme mystérieux s'engage dans la poursuite d'une nouvelle cible.\n\nDéplacez le jeton Personnage Bleu d'1 case vers le monstre le plus proche.
+TokenHelper_REvent3.text,L'homme mystérieux n'a nullement l'intention de vous parler, il semble emprunt d'une rage guerrière derrière son regard belliqueux.
+EventHelperAttacksMiss_REvent3.text,L'homme mystérieux ouvre le feu à l'aveuglette en direction d'une créature. Déplacez le jeton Personnage Bleu d'1 case vers le monstre le plus proche. Incapable de canaliser son tir, il ne touche pas sa cible.
+EventHelperActivate_REvent3.text,L'homme mystérieux se jette en avant.\n\nDéplacez le jeton Personnage Bleu jusqu'à 2 cases pour être à portée d'un maximum de monstres.
+EventHelperCorpse.text,L'homme mystérieux semble avoir succombé à ses blessures. Un odeur de sang frais emplit les rues d'Ambersby. Vous craignez qu'elle ne rameute d'autres créatures indésirables.\n\nPlacez un jeton Interaction comme indiqué.
+EventHelperAttack4_REvent3.text,L'homme mystérieux tire et touche une créature, puis essaie de tirer à nouveau. Tout en jurant, il recharge son arme.\n\nAjoutez 2 Dégâts à un monstre à portée.\n\n<i>Les investigateurs peuvent choisir la cible si plusieurs monstres sont à portée.</i>
+EventHelperDies.text,L'homme mystérieux trébuche en se rabattant vers les quais, cette incursion semble avoir aggravé les blessures qu'il contenait depuis un moment. Il a perdu beaucoup de sang et paraît fébrile.\n\nIl chancelle et tombe sur la jetée en bois du quai 3.\n\nRetirez le jeton Personnage Bleu.
+TokenHealerEnabled_REvent5.text,L'homme semble être médecin, il est en train d'apaiser une femme profondément paniquée.\n\nIl vous regarde approcher.
+TokenAbanHousePerson_Tile12.text,L'homme tousse et crache, il se semble pas aller bien du tout.
+SpawnAbanHouseZombie_Tile12.text,L'homme tousse, crache, puis pousse un horrible cri, le sang envahissant sa bouche. \n\nIl retombe en arrière sur le lit et se tord en se griffant le visage. Incapable de bouger vous êtes saisi par la peur, alors qu'il s'arrête de bouger. Peu après il se redresse droit comme piquet et vous fixe des ses yeux morts. Il ne semble plus vous reconnaître, et ne voit rien d'autre qu'un repas. Subissez 2 Horreurs face cachée ({will} annule).\n\nRetirez le jeton Personnage et placez 1 Zombie sur la case indiquée.
+EventHorrorSheriff.button2,L'ignorer
+SpawnCorpsesSpawnDeepOne_REvent.text,L'odeur de sang frais a attiré la créature de la Rivière vers Ambersby.\n\nVous devriez trouver un moyen de vous occuper des cadavres pour éviter que d'autres monstres affluent.\n\nPosez un Profond sur la case indiquée.
+EventRemoveCorpseAfterMonsters3_Revent.text,L'odeur de sang provenant des cadavres sur le quai 3, s'estompe.\n\nRetirez le jeton Interaction comme indiqué.
+EventRemoveCorpseAfterMonsters2_REvent.text,L'odeur du corps de la petite fille dans le snack s'estompe.\n\nRetirez le jeton Interaction comme indiqué.
+EventPlaceWarehouseExplore_Tile16.text,L'un des bâtiments possède une grande double porte. Renforcée par des sangles métalliques, elle semble verrouillée par un système complexe.\n\nPlacez 1 jeton Exploration comme indiqué.
+EventZombieRiotAttackMelee1_Tile15.text,L'une des créatures bondit vers vous à une vitesse surnaturelle telle, qu'il vous ait impossible de l'esquiver.\n\nTest {strength}(2). Si vous réussissez, vous gardez les pieds ancrés dans le sol et la repoussez brutalement. Si vous échouez, la créature vous plaque au sol, subissez 1 Dégât face cachée et devenez Sonné.
+EventZombieRiotHorror3_Tile15.text,L'une des créatures en attrape une autre et lui arrache violemment le bras.\n\nCette vision vous terrifie et vous retourne l'estomac, subissez 2 Horreurs face cachée ({will} annule).
+EventZombieRiotAttackRange2_Tile15.text,L'une des créatures marche d'un pas cadencé hors du groupe. Elle s'arrête non loin de vous. Elle est prise de convulsions. \n\nVous êtes surpris par un jet de vomi propulsé hors de sa mâchoire distendue.\n\nTest {agility} (2). Si vous réussissez, vous faites une roulade sur le côté pour éviter les projectiles. Si vous échouer, le vomi s'étend et vous brûle la peau. Subissez 2 Dégâts face cachée.
+EventZombieRiotAttackRange1_Tile15.text,L'une des créatures s'arrête net, prise de haut-le-cœur, et vomit le contenu de son estomac sur le sol. Vous ne pouvez détourner le regard quand vous remarquez un œil humain dans le tas.\nSubissez 1 Horreur face cachée ({will}-1 annule).
+EventZombieRiotHorror1_Tile15.text,L'une des créatures vous regarde. Vous ne parvenez pas à détourner le regard quand elle se met à lentement à arracher la chair de son propre visage.\n\nSubissez 2 Horreurs face cachée ({will}+1 annule).
+EventPuzzleBox.text,La boite à énigme est un petit cube de bois avec un signe mystique sur chaque face. Un des côtés semble constitué de petites tuiles qui se déplacent quand on les touche.
+EventHorrorBigNasty2.text,La chair de la créature se déchire laissant suinter un mélange de sang et de boue. Vous résistez à l'envie de vomir. \n\nTest {will}, si vous réussissez, vous tenez bon et n'avais que des nausées. Si vous échouez vous videz le contenu de votre estomac, subissez 1 Horreur face cachée et devenez Sonné.
+EventSnackShopZombieMoves_Revent1.text,La créature a capté l'odeur de la petite fille, ignorant tout hormis sa nouvelle proie, elle déambule vers le Snack.\n\nDéplacez le Zombie de 2 cases vers le jeton Personnage dans le Snack, ne stoppez <b>pas</b> le déplacement du monstre s'il passe sur une case occupée par un ou des investigateurs.
+EventSnackShopZombieInvestigatorAttack2_REvent1.text,La créature balance son bras en direction de votre tête, vous tentez d'esquiver, test {agility} (2). Si vous réussissez, son attaque vous manque. Si vous échouez, le coup vous percute de plein fouet et vous voyez une myriade d'étoiles, subissez 1 Dégât face cachée et devenez Étourdi.
+EventSnackShopZombieBatterDoor_Revent1.text,La créature est parvenu jusqu'au Snack et frappe la porte barricadée. La fille se met à gémir, paralysée par la peur.\n\nVous n'avez pas beaucoup de temps pour la sauver.
+EventBurntBigNastyDies.text,La créature hurle de douleur de ses multiples bouches, le bruit vous assaille.\n\nVous luttez contre cette agonie mortelle, pendant qu'elle s’effondre au sol dans des mouvements spasmodiques. Ses forces l'abandonnent progressivement et la créature finit de se débattre pour rester complètement immobile.
+EventSnackShopZombieAttackInvestigatorsTarWill_REvent1.text,La créature renifle l'odeur d'une nouvelle proie, elle déambule vers ce qu'elle pense être une cible plus vulnérable.\n\nDéplacez le Zombie d'1 case vers l'investigateur le plus proche puis il attaque l'investigateur à portée avec la {strength} la plus faible.
+EventSnackShopZombieInvestigatorsTarStr_REvent1.text,La créature renifle l'odeur d'une nouvelle proie, elle déambule vers la cible la plus petite.\n\nDéplacez le Zombie d'1 case vers l'investigateur le plus proche, puis il attaque l'investigateur à portée ayant la {strength} la plus faible.
+SpawnWarehouseAttackThrallMFailed_Tile20.text,La créature s'avance en sentant votre présence, ignorant votre coup qui martele le sol. La pic en métal vous échappe des mains et tombe sur le sol.\n\nPlacez l'Objet Commun {c:QItemLeadPipe} sur la case et posez un Thrall dessus.
+EventBigNastyMeleeAttack3.text,La créature frappe sauvagement de son membre malformé, vous remarquez que les jointures de ces membres semblent présenter un point faible et vous cherchez à l'exploiter. \n\nTest {lore} (3). Si vous réussissez, vous faites un pas de côté au moment où le membre s'écrase sur vous, et vous piétinez la zone sensible, causant 2 Dégâts à la Terreur d'Ambersby. Elle hurle de ses multiples bouches quand le membre s'arrache de son torse tyrannique. Si vous échouez, son membre vous atteint lourdement, subissez 2 Dégâts face cachée.
+EventBigNastyRangeAttack1.text,La créature se déchaine en balançant d'avant en arrière son long membre renforcé. Il est impossible d'éviter toutes les attaques mais vous tentez malgré tout d'analyser la trajectoire de celles venant sur vous. Subissez 2 Dégâts face cachée et 1 Horreur face cachée ({observation} annule), alors que vous réalisez que les membres qui vous assaillent sont constitués de multiples mâchoires qui vous mordent.
+EventEvadeBigNasty4.text,La créature se déchaine sauvagement et vous faites un pas de côté pour être hors de portée. Subissez 2 Dégâts ({agility} annule) quand les membres s'abattent sur vous. Si vous subissez au moins 1 Dégât, renoncez à votre action.
+EventSnackShopZombieInvestigatorAttack1_REvent1.text,La créature se rue sur vous et tente de vous agripper. Vous luttez pour vous défaire de son emprise, test {strength} (2). Si vous réussissez, vous brisez son étreinte et la repoussez. Si vous échouez, le monstre plante ses crocs dans votre épaule, subissez 2 Dégâts face cachée.
+EventSnackshopZombieInvestigatorsNoRange_REvent1.text,La créature se rue vers l'avant.\n\nDéplacez le monstre d'1 case vers l'investigateur le plus proche.
+EventBigNastyMeleeAttack2.text,La créature se rue vers vous à une vitesse étonnante. Vous tentez de l'esquiver. Test {agility} (2). Si vous réussissez, vous parvenez juste à temps à faire une roulade. Si vous échouez, subissez 2 Dégâts face cachée et devenez Sonné, alors que la Terreur vous frappe sur le côté.
+EventSnackShopZombieInvestigatorsTarLore_REvent1.text,La créature sent l'odeur d'une nouvelle proie, elle bouge vers une cible au hasard.\n\nDéplacez le Zombie d'1 case vers l'investigateur le plus proche. Il attaque l'investigateur à portée ayant le plus de jetons {clue}.
+EventSnackShopZombieDiesBoyAlive_Revent1.text,La créature tombe au sol et s'arrête de bouger. 
+EventEastAlleyRemoveWall_Tile9.text,La fenêtre vers le cachot est ouverte.\n\nRetirez le jeton Mur comme indiqué.
+EventSnackShopZombieBoySaved_REvent1.text,La fille court vers vous et vous étreint dans un élan de reconnaissance. Vous la conduisez directement en sécurité au bureau du Sheriff. Votre esprit est rasséréné par cet acte de bonté, devenez Concentré.\n\nRetirez le jeton Personnage et le jeton Barricade.
+EventLabBlueOrange_Tile14.text,La fiole Bleue est posée sur l'emplacement "Stabilisateur" et la fiole Orange sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabBlueRed_Tile14.text,La fiole Bleue est posée sur l'emplacement "Stabilisateur" et la fiole Rouge sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabBlueGreen_Tile14.text,La fiole Bleue est posée sur l'emplacement "Stabilisateur" et la fiole Verte sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabOrangeBlue_Tile14.text,La fiole Orange est posée sur l'emplacement "Stabilisateur" et la fiole Bleue sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabOrangeRed_Tile14.text,La fiole Orange est posée sur l'emplacement "Stabilisateur" et la fiole Rouge sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabOrangeGreen_Tile14.text,La fiole Orange est posée sur l'emplacement "Stabilisateur" et la fiole Verte sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabRedBlue_Tile14.text,La fiole Rouge est posée sur l'emplacement "Stabilisateur" et la fiole Bleue sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabRedOrange_Tile14.text,La fiole Rouge est posée sur l'emplacement "Stabilisateur" et la fiole Orange sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabRedGreen_Tile14.text,La fiole Rouge est posée sur l'emplacement "Stabilisateur" et la fiole Verte sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabGreenBlue_Tile14.text,La fiole Verte est posée sur l'emplacement "Stabilisateur" et la fiole Bleue sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabGreenOrange_Tile14.text,La fiole Verte est posée sur l'emplacement "Stabilisateur" et la fiole Orange sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventLabGreenRed_Tile14.text,La fiole Verte est posée sur l'emplacement "Stabilisateur" et la fiole Rouge sur "Partie 1".\n\nVous méditez un moment avant de vous décider sur la fiole à mettre sur l'emplacement "Partie 2".
+EventPlaceBoatSight_Tile1.text,La jetée est mal éclairée, et de l'endroit où vous êtes, une épaisse brume vous empêche de voir au-delà du bord de l'embarcation.\n\nPlacez un jeton Vue comme indiqué.
+EventPlaceBerth3Sight_Tile3.text,La jetée s'étend le long de la cabane.\n\nPlacez un jeton Vue comme indiqué.
+EventZombieRiotTarAgilityRange_Tile15.text,La meute de créatures se déplace dans une totale anarchie, rugissant et grognant en approchant lentement de sa proie. \n\nLes Émeutiers Zombies se déplacent de 2 cases pour être à portée du plus grand nombre d'investigateurs possible, puis ils attaquent l'investigateur à portée avec l'{agility} la plus élevée
+EventZombieRiotTarWillRange_Tile15.text,La meute de créatures se déplace dans une totale anarchie, rugissant et grognant en approchant lentement de sa proie. \n\nLes Émeutiers Zombies se déplacent de 2 cases pour être à portée du plus grand nombre d'investigateurs possible, puis ils attaquent l'investigateur à portée avec la {will} la plus faible.
+EventZombieRiotTarObsMelee_Tile15.text,La meute de créatures se déplace dans une totale anarchie, rugissant et grognant en approchant lentement de sa proie.\n\nLes Émeutiers Zombies se déplacent de 2 cases vers l'investigateur le plus proche puis ils attaquent l'investigateur sur leur case avec l'{observation} la plus faible.
+EventZombieRiotTarStrMelee_Tile15.text,La meute de créatures se déplace dans une totale anarchie, rugissant et grognant en approchant lentement de sa proie.\n\nLes Émeutiers Zombies se déplacent de 2 cases vers l'investigateur le plus proche puis ils attaquent l'investigateur sur leur case avec la {strength} la plus faible.
+EventZombieRiotTarWillMelee_Tile15.text,La meute de créatures se déplace dans une totale anarchie, rugissant et grognant en approchant lentement de sa proie.\n\nLes Émeutiers Zombies se déplacent de 2 cases vers l'investigateur le plus proche puis ils attaquent l'investigateur sur leur case avec la {will} la plus élevée.
+EventZombieRiotTarAgiMelee_Tile15.text,La meute de créatures se déplace dans une totale anarchie, rugissant et grognant en approchant lentement de sa proie.\n\nLes Émeutiers Zombies se déplacent de 2 cases vers l'investigateur le plus proche puis ils attaquent l'investigateur sur leur case ayant l'{agility} la plus élevée.
+SpawnWarehouseSpawnThrallRAttackFailed_Tile20.text,La pic en métal frôle le Thrall pour s'écraser contre le mur derrière. Il siffle en direction du bruit, puis se tourne. Ces naseaux se mettent à flairer dans votre direction.\n\nPlacez l'Objet Commun {c:QItemLeadPipe} sur la case indiquée, puis posez un Thrall dessus.
+EventSmashCabinetSuccess_Tile3.text,La porte cède et vole en éclat. \n\nA l'intérieur, vous trouvez une arme à feu dans un état impeccable.\n\nRécupérez l'Objet Commun {c:QItemCabinetGun_Tile3} et retirez le jeton Recherche.
+EventPlaceBookShopSmashed_PlaceTile08.text,La porte craque et se gondole sous votre force de frappe. Vous poussez les fournitures bloquant la porte et découvrez une librairie sombre.\n\nPlacez la tuile {c:TileBookStore_Tile13} puis placez des jetons Obscurité sur chaque case.\n\nRetirez le jeton Exploration.
+EventPlaceAbanHouseSearch_Tile12.text,La porte donnant sur la pièce du fond est ouverte, et vous distinguez qu'elle est tout aussi pleine de détritus.\n\nPlacez un jeton Recherche comme indiqué.
+TokenSheriffExplore_Tile15.text,La porte du bureau du Sheriff est fermée et barricadée.\nVous voyez une silhouette se déplaçant à l'intérieur.
+TokenSheriffOfficeBarricadeHostile_Tile15.text,La porte du bureau est barricadée.\n\nLes investigateurs ne peuvent pas se déplacer dans le bureau tant que le jeton est en place.
+TokenAbanHouseSearch_Tile12.text,La porte du fond est ouverte, la pièce au-delà semble remplie d'une grande quantité de détritus.
+TokenOfficeDoor_Tile3.text,La porte reste accrochée et n'est retenue que par ses gonds, elle semble avoir été défoncée. Des traces rouges sombres parsèment l'encadrement.
+EventSheriffOfficeSMASHDoorFailed_Tile15_Unused.text,La porte s'avère plus solide que vous ne l'imaginiez. Après un moment, vous concéder votre échec et arrêtez de reprendre votre souffle.
+EventSmashBookshopSuccess_Tile08.text,La porte vole en éclat.
+EventPlaceEasyAlleySight_Tile07.text,La rue à l'Est mène à une ruelle sombre.\n\nPlacez un jeton Vue comme indiqué.
+TokenNorthStreetSight_Tile7.text,La rue continue après l'angle droit vers le Nord.\n\nLes investigateurs sur la tuile {c:TileShopFront_Tile7} peuvent dévoiler la zone.
+EventPlaceNorthStreetSight_Tile07.text,La rue continue au Nord de l'esplanade.\n\nPlacez un jeton Vue comme indiqué.
+EventPlaceNorthStreetEndSight_Tile8.text,La rue continue. \n\nPlacez un jeton Vue comme indiqué.
+TokenNorthStreetEndSight_Tile8.text,La rue continue.\n\nLes investigateurs sur la tuile {c:TileStreetCorner_Tile17} peuvent interagir avec ce jeton.
+EventPlaceNorthStreet_PlaceTile08.text,La rue suit les quais en parallèle pour atteindre une petite plage. La rue tourne sur la droite longeant un mur côtier.\n\nPlacez les tuiles {c:TileNorthStreet_Tile8}, {c:TileStreetCorner_Tile17}, {c:TileBeach_Tile4} et les jetons Mur comme indiqué.\n\nRetirez le jeton Vue.
+EventPlaceEastAlleyTile_PlaceTile09.text,La ruelle est sombre et étouffante.\n\nPlacez les tuiles {c:TileEastAlley_Tile9},  {c:TileEastAlley2_Tile11} et les jetons Mur comme indiqué.\n\nPlacez des jetons Obscurité sur chacune des cases.\n\nRetirez le jeton Vue.
+EventBigNastyMoveMeleeTarObserv.text,La Terreur d'Ambersby de déplace de 2 cases vers l'investigateur le plus proche et attaque l'investigateur sur sa case avec l'{observation} la plus élevée.
+EventBigNastyMoveMeleeTarLore.text,La Terreur d'Ambersby de déplace de 2 cases vers l'investigateur le plus proche et attaque l'investigateur sur sa case avec la {lore} plus élevée.
+EventBigNastyMoveMeleeTarStr.text,La Terreur d'Ambersby de déplace de 2 cases vers l'investigateur le plus proche et attaque l'investigateur sur sa case avec la {strength} la plus faible.
+EventHorrorBigNasty1.text,La Terreur d'Ambersby émet un gémissement tourmenté et devient enragée, vous distinguez les voix de plusieurs personnes dans ces cris.\n\nSubissez 2 Horreurs face cachée ({will} annule), alors que vous essayez de comprendre ce qui se passe.
+EventBigNastyMoves1Space.text,La Terreur d'Ambersby fait une poussée vers l'avant, déplacez-la d'1 case vers l'investigateur le plus proche.
+EventBigNastyRangeAttack3.text,La Terreur d'Ambersby riposte en projetant de longues tentacules vers vous, elles s'enroulent autour de vos jambes et vous enchevêtrent.\n\nVous luttez pour vous libérer, subissez 3 Dégâts face cachée ({strength} annule) alors que les ventouses vous déchiquettent des lambeaux de peau. Si vous subissez au moins 1 Dégât devenez Entravé, alors que vous vous acharnez désespéramment à vous défaire de l'emprise de la créature.
+EventBigNastyRangeAttack2.text,La Terreur d'Ambersby se déchaine, bien que vous soyez hors de portée vous semble-t-il. Alors que vous pensez pouvoir échapper à ses attaques, un de ses membres se détache et ondule vers vous.\n\nTest {observation} (2) quand vous comprenez trop tard que sa cible est désignée. Si vous réussissez, vous évitez le projectile. Si vous échouez le membre sectionné vous percute et vous met KO, subissez 2 Dégâts face cachée et devenez Sonné.
+EventBigNastyMoveRangeTargetAgi.text,La Terreur d'Ambersby se déplace jusqu'à 2 cases pour être à portée de l'investigateur le plus proche et attaque l'investigateur à portée ayant la {will} la plus faible.
+EventBigNastyMoveRangeTarWill.text,La Terreur d'Ambersby se déplace jusqu'à 2 cases pour être à portée de l'investigateur le plus proche et attaque l'investigateur à portée ayant la {will} la plus faible.
+SpawnWarehouseSpawnWeakenedThrallSuccessAttack_Tile20.text,La tige en métal empale la créature dans l'épaule dans un immonde craquement. De nouveau sur ses pieds, la créature hurle en retirant l'objet de son épaule. Son bras pendouille mollement quand elle lâche la pic sur le sol et se déplace vers vous.\n\nPlacez l'Objet Commun {c:QItemLeadPipe} sur la case indiquée.\n\nPosez un Thrall sur la case, elle subit 2 Dégâts.
+EventSheriffOfKNOCKInfluanceFail_Tile15.text,La voix répond vivement.\n\n"J'ai dit non... Maintenant partez je vous prie."
+EventHorrorSheriff.button1,Lâcher vos armes
+EventSetVARS_PlaceBoat_PlaceTile1.text,Le bateau se fracasse contre les eaux mouvementées mais vous évitez tout juste de percuter la jetée.\nEncore sous le choc, vous arrimez le navire sur le point d'accostage le plus proche.\n\nPlacez la tuile {c:TileBoat_Tile1}.
+EventBigNastyMeleeAttack1.text,Le Béhémoth soulève plusieurs de ses membres estropiés et les abat sur vous. Vous vous préparez à l'impact, subissez 3 Dégâts face cachée ({strength} annule).
+EventBookStoreIntimidateSucess_Tile13.text,Le bouquiniste glapit et vous tend un petit parchemin avant de retourner se terrer dans le coin. Vous ressentez une pointe de culpabilité, subissez 1 Horreur ({will}-1 annule).\n\nRécupérez l'Objet Commun {c:QItemSpellBook}.\n\nRetirez le jeton Personnage.
+EventBookStoreIntimidateShopKeepFail_Tile13.text,Le bouquiniste pleurniche dans un coin, vous ne tirerez rien de plus de ce pauvre homme.\n\nRetirez le jeton Personnage.
+TokenShopKeepHappy_Tile13.text,Le bouquiniste se penche lourdement en se servant d'une canne, il s'agit d'un vieil homme aux cheveux gris paraissant fragile.\n\nIl vous regarde avec un franc sourire.
+EventSnackShopZombieBreaksDoor_Revent1.text,Le bruit de bois brisé résonne à travers la ville, la créature semble avoir détruit la barricade du Snack.\n\nDéplacez la dans le Snack et retirez le jeton Barricade.
+EventPlaceSheriffOffice_PlaceTile15.text,Le bureau comporte deux parties ; une réception sur le devant et une arrière-salle, les deux séparées par un comptoir. Sur le comptoir, des barreaux protègent d'un accès indésirable.\n\nRetirez le jeton Exploration.
+EventPlaceOfficeExplore_Tile3.text,La cabane est en bon état hormis la porte cassée qui pend par ses gonds.\n\nPlacez 1 jeton Exploration comme indiqué.
+TokenHelperCorpse_Tile5.text,Le cadavre de l'homme mystérieux repose sur le Quai 3.\nLa puanteur de sa carcasse dérive à travers les rues d'Ambersby, l'odeur pourrait solliciter une attention indésirable.\n\nLes investigateurs avec une Source de Lumière peuvent interagir avec ce jeton.
+EventHolodingCellPuzzleComplete_Tile21.text,Le cadenas émet un clic et s'ouvre.\n\nRetirez le jeton Recherche.
+EventCaptainGoesBelowDecks_Tile1.text,Le Capitaine vous interpelle.\n\n"Trouvez le Bureau où payer notre accostage, voulez-vous. Je dois faire quelques réparations... Oh, et trouvez du gasoil aussi, nous n'irons nul part sans."\n\nPuis il descend dans la soute.\n\nVous ne pourrez pas quitter cet endroit à moins de trouver du carburant.
+EventBlackboardInspect.text,Le contenu du tableau noir dans le laboratoire est partiellement effacé. La partie que vous comprenez est surlignée.\n\n<i>Utiliser le stabilisateur #9252 à la fin de toute combinaison.</i>
+EventWarehouseSmashChestStealthContents_Tile20.text,Le contenu se répand de l'armoire brisée. Vous saisissez rapidement quelque chose d'utile.\n\nRécupérez l'Objet Commun {c:QItemWarehouseCommonItem}.
+EventSheriffOfKnockRiotDeadHeardRadio_Tile15.button1,Le convaincre de vous laisser entrer
+EventSheriffOfKNOCKriotdeadNoCode_Tile15.button1,Le convaincre de vous laisser entrer
+TokenSnackShopCorpse_Revent1.text,Le corps de la petite fille est couché sur le sol dans le Snack, l'odeur infecte du cadavre se répand dans les rues d'Ambersby, elle pourrait attirer quelque attention indésirable.\n\nLes investigateurs avec une Source de Lumière peuvent interagir avec ce jeton.
+EventPlazaManDies2_REvent0.text,Le corps sur l'esplanade convulse et s'écroule vers l'avant, vous n'avez pas réussi à le sauver à temps.\n\nLe vent porte l'odeur de sang frais à travers les rues d'Ambersby. Vous vous inquiétez que cela suscite quelque attention indésirable.\n\nRetirez le jeton Recherche et remplacez-le par 1 jeton Interaction.
+EventWarehouseSmashChestSuccessStealth_Tile20_NOTUSED.text,Le côté du coffre cède sous la puissance de votre coup. Le vruit de bois brisé résonne dans la pièce.\n\nRetirez le jeton Recherche.
+EventHoldingCellHealerPatchup1_Tile21.text,Le docteur vous regarde et applique des onguents et autres bandages sur vos blessures.\n\nRetournez 1 Dégât et 1 Horreur face cachée. Puis défaussez 1 Dégât et 1 Horreur face cachée.
+EventPlaceAbanHouse_PlaceTile12.text,Le domicile est petit avec juste la place pour un lit. Une odeur écœurante plane dans l'air, un mélange de moisi et de pourriture.\n\nEn observant la pièce, vous comprenez pourquoi. Des détritus jonchent le sol, il y en a tellement que vous trouvez à peine un endroit qui soit dégagé.\n\nPlacez la tuile {c:TileSmallHome_Tile12}.\n\nRetirez le jeton Exploration.
+EventHoldingCellPersuadeScientistSuccessWHopen_Tile21.text,Le Dr Chan commence à vous expliquer qu'un entrepôt a été aménagé en infirmerie peu de temps avant qu'ils ne doivent l'abandonner.\n\nVous lui dites que vous y êtes déjà allé.\n\nPendant un instant elle semble surprise et rétorque :  "Oh? Avez-vous trouvé la porte cachée dans le fond? Cela vous permettrait d'accéder plus rapidement au labo".\n\nRécupérez 1 jeton {clue}.
+EventPlaceLabExploreScientistDialog_Tile11.text,Le Dr Chan vous a fait passer les instructions pour trouver l'entrée du laboratoire secret.\n\nRetirez le jeton Mur sur la tuile {c:TileEastAlley2_Tile11} et remplacez-le par un jeton Passage Secret.\n\nPlacez 1 jeton Exploration comme indiqué.
+EventPlaceSecretLabExploreIfKnown_Tile11.text,Le Dr Chan vous a fait passer les instructions pour trouver l'entrée du laboratoire secret.\n\nRetirez le jeton Mur sur la tuile {c:TileEastAlley2_Tile11} et remplacez-le par un jeton Passage Secret.\n\nPlacez 1 jeton Exploration comme indiqué..\n\nIl s'agit de l'entrée du laboratoire secret de la Compagnie du Centaure.
+TokenHoldingCellScientistPerson_Tile21.text,Le Dr Mai Chan est une personne chaleureuse, mais elle semble distraite, une once de tristesse dans le regard.
+TokenScaredShopKeep_Tile13.text,Le gérant du magasin se recroqueville dans un coin. Il ne veut pas avoir affaire à vous.
+EventZombieRiotAttackRangeAll_Tile15.text,Le groupe émet un hurlement de frustration, incapable de dévorer sa proie. Une des créatures est soudainement expulsée de la meute, puis le reste se jette sur elle. La créature isolée hurle de douleur alors qu'elle se fait déchiqueter devant vos yeux.\n\nRetirez (jusqu'à) 2 Dégâts aux Zombies Émeutiers, si cela permet de tuer le monstre, laissez seulement 1 point de vie à la place.\n\nChaque investigateur à portée subit 2 Horreurs face cachée ({will} annule).
+TokenHoldingCellMetalCabinet_Tile21.text,Le haut de l'armoire contient plusieurs babioles tandis que la grande porte est entrouverte.
+EventBlueVialInspect.text,Le liquide dans ce flacon est Bleu, l'étiquette indique "6544".
+EventGreenVialInspect.text,Le liquide de cette fiole est Vert, l'étiquette indique "7334".
+EventBigNastyMoveMeleeTarLore.button1,Le monstre attaque
+EventBigNastyMoveMeleeTarObserv.button1,Le monstre attaque
+EventBigNastyMoveMeleeTarStr.button1,Le monstre attaque
+EventBigNastyMoveRangeTarAll.button1,Le monstre attaque
+EventBigNastyMoveRangeTargetAgi.button1,Le monstre attaque
+EventZombieRiotTarAgilityRange_Tile15.button1,Le monstre attaque
+EventZombieRiotTarAgiMelee_Tile15.button1,Le monstre attaque
+EventZombieRiotTarObsMelee_Tile15.button1,Le monstre attaque
+EventZombieRiotTarStrMelee_Tile15.button1,Le monstre attaque
+EventZombieRiotTarWillMelee_Tile15.button1,Le monstre attaque
+EventZombieRiotTarWillRange_Tile15.button1,Le monstre attaque
+EventBigNastyHeal.text,Le monstre s'arrête subitement.\nSa peau remue et se met à onduler, vous regardez avec horreur ses blessures se refermer.\n\nLa Terreur d'Ambersby se soigne de 2 Dégâts.
+EventNastyIvestigateAgain_Tile15.text,Le monstre se contorsionne toujours et sa chair bouillonne.
+EventSnackShopZombieAttackInvestigatorsTarWill_REvent1.button1,Le monstre attaque
+EventSnackShopZombieInvestigatorsTarLore_REvent1.button1,Le monstre attaque
+EventSnackShopZombieInvestigatorsTarStr_REvent1.button1,Le monstre attaque
+EventBigNastyRangeAttackAll.text,Le monstre penche sa tête en arrière et pousse un rugissement, le cri surnaturel vous transit de peur.\n\nChaque investigateur à portée subit 3 Horreurs face cachée, ({will}+1 annule).
+EventBigNastyMoveRangeTarAll.text,Le monstre se déplace de 2 cases pour être à portée du maximum d'investigateurs possible.
+EventNorthStreeInvestigatePuddle_Tile17.text,Le morceau de papier est partiellement immergé dans la flaque. Vous retirez le papier délicatement de l'eau, pour éviter de davantage abîmer le texte. Test {lore} (2).
+EventSheriffOfficeSpeakFriendlyShrfOnlyHelp_Til15.text,Vos questions irritent quelque peu le Sheriff Robbin.
+SpawnPlaceAngrySheriff_Tile15.text,Le Sheriff fait un tir de sommation puis lève l'arme vers vous.\n\nPlacez 1 jeton Personnage, il représente le Sheriff Robins.
+EventHorrorSheriff.text,Le Sheriff lève son arme et vous somme de jeter vos armes.
+EventSheriffNoTarget.text,Le Sheriff maintient son attention attendant qu'une cible se présente.
+EventPlaceSheriffFriendly_Tile15.text,Le Sheriff passe le bout du nez par la porte et revient vers le comptoir.
+EventSheriffOffSpeakFriendShrfOnlyWhatsUp_Tile15.text,Le Sheriff Robbin semble irrité par toutes vos questions.
+EventSheriffOfficeSpeakFriendShrfAllOptions_Tile15.text,Le Sheriff Robbins tapote sur son holster à votre approche, vous signifiant de ne pas causer d'ennui.
+EventSheriffDies.text,Le Sheriff Robins gémit en tombant au sol. En vous approchant de lui, vous remarquez une trousse de premiers secours sous le comptoir. Vous utilisez ce qui reste pour panser vos blessures.\n\nRetournez 1 Dégât face cachée et défaussez 1 Dégât face cachée.
+EventSheriffAttack1.text,Le Sheriff Robins prend pour cible la cible la plus grande et tire plusieurs salves de balles. Vous tentez de vous mettre à couvert derrière une meuble métallique \n\nCette attaque touche l'investigateur à portée avec la {strength} la plus élevée.\n\nTest {agility} (2). Si vous réussissez, vous parvenez à vous mettre à couvert alors que les balles sifflent et ricochent autour de vous. Si vous échouez, vous vous déplacez trop lentement et une balle touche sa cible, subissez 2 Dégâts face cachée.
+EventSheriffAttack3.text,Le Sheriff Robins prend une cible au hasard. Vous vous contorsionnez pour éviter le tir. Cette attaque affecte l'investigateur à portée avec la {lore} la plus élevée.\n\nSubissez 3 Dégâts face cachée ({agility} annule) pendant que les balles vous écorchent.
+EventSheriffAttack4.text,Le Sheriff Robins tire au hasard dans la pièce.\n\nCette attaque affecte l'investigateur à portée avec l'{agility} la plus basse.\n\nLes balles fusent tandis que vous vous planquez. Test {will} (2). Si vous réussissez, vous êtes soulagé de voir qu'aucune balle ne vous a touché. Si vous échouez, bien qu'indemne, vous sortez choqué de cette épreuve, subissez 1 Horreur face cachée et devenez Étourdi.
+EventSheriffAttack2.text,Le Sheriff Robins vise la cible la plus grande, vous anticipez le tir et tentez de le distraire en jetant une chaise dans sa direction.\n\nCette attaque affecte l'investigateur à portée ayant l'{agility} la plus élevée.\n\nTest {strength} (2). Si vous réussissez, la chaise en bois s'écrase contre les barreaux au-dessus du comptoir, distrayant le Sheriff Robins qui tire à côté. Si vous échouez le Sheriff Robins reste concentré et vous touche à la jambe, subissez 2 Dégâts face cachée. 
+EventPlaceAngrySheriff_Tile15.text,Le Sheriff se tient derrière le comptoir, l'arme levée, braquée sur vous. D'un regard furieux il vous crie :\n\n"Déposer vos armes au sol et levez les mains... Ou je serai obligé d'ouvrir le feu."
+EventPlaceFriendlySheriff_Tile15.text,Le Sheriff se tourne et vous regarde, la main sur le holster. Il vous observe avec méfiance.\n\nPlacez 1 jeton Personnage comme indiqué.
+EventSheriffPersuadeSuccess_Tile15.text,Le Sheriff soupire: "Je suppose que vous avez raison. Tenez, prenez ceci." Il vous tend une trousse de premiers secours de sous le comptoir.\n\nVous utilisez ce qui reste pour vous soigner, retournez 1 Dégât et 1 Horreur face cachée. Puis défaussez 1 Dégât et 1 Horreur face cachée.
+EventEvadeSheriff.text,Le sheriff tente de vous tirer de vous dessus et vous essayez de l'éviter.\n\nSubissez 2 Dégâts face cachée ({agility} annule).
+TokenFriendlySheriff_Teil15.text,Le Sheriff vous regarde prudemment, une main posée sur son holster.
+EventZombieRiotAttackMeleeAll_Tile15.text,Le tas anarchique de créatures vous tombe dessus, vous griffant et vous mordant, vous et vos compagnons.\n\nSubissez 3 Dégâts face cachée ({strength}+1 annule) en essayant de repousser leurs attaques. Tout les investigateurs présents sur votre case subissent 1 Dégât face cachée alors qu'ils sont pris dans la mêlée.
+SpawnBellZombie_Tile3.text,Le tintement de la cloche s'étend sur tout le quai. Vous entendez un gémissement non loin.\nPeu de temps après, une créature morbide apparaît de derrière les bateaux de location ; l'écume aux lèvres, un désir de meurtre dans ses yeux vides.\nRetirez ce jeton Recherche et le jeton Recherche sur la tuile Dock de Location .\nPosez un Zombie comme indiqué. 
+EventRingBellClue_Tile2.text,On dirait que le bruit a attiré quelque visiteur indésirable.\n\nRécupérez 1 jeton {clue}.
+EventPlaceNorthStreetSpell_REvent9.text,Le vent drague des débris de papier qui dévalent la Rue Nord. Il se rassemble dans une petit flaque entre les pavés.\n\nPlacez un jeton Recherche comme indiqué.
+EventRemoveCorpsesAfterMonsters_REvent.text,Le vent retombe et l'odeur de sang provenant des cadavres sur l'esplanade s'estompe.\n\nRetirez le jeton Interaction comme indiqué.
+EventPlazaManDies_REvent0.text,	Le vent se lève,transportant avec lui l'odeur de sang frais des cadavres sur l'esplanade. Vous vous inquiétez que cela suscite quelque attention indésirable.\n\nPlacez 1 jeton Interaction comme indiqué.
+EventSnackShopZombieCorpse_Revent1.text,Le Zombie a laissé un corps déchiqueté derrière lui, une odeur de sang frais se répand dans la ville. Vous vous inquiétez que l'odeur attire quelque attention indésirable.\n\nPlacez 1 jeton Interaction comme indiqué.
+EventPlaceCandles_Berth3.text,Les affaires de l'homme mystérieux se sont renversées de son sac et sont répandues sur la jetée.\n\nPlacez un jeton Recherche comme indiqué.
+TokenHoldingCellBoxes_Tile21.text,Les boites en bois paraissent vieilles et trempées, mais pourraient contenir quelque chose d'utile.
+EventPharaCrate1Search_Tile5.text,Les caisses sont pleines de diverses fournitures médicales. En fouillant, vous voyez que le contenu a été endommagé par le temps. Vous vous coupez la main sur du verre brisé, subissez 1 Dégât face cachée ({observation} annule).\n\nEn poussant délicatement le verre cassé, vous trouvez un objet en bon état.\n\nRécupérez l'Objet Commun {c:QItemMedicalSupplies_Tile5} et retirez le jeton Recherche.
+EventZombieRiotNoRangeMoves_Tile15.text,Les créatures continuent de se mordre et se frapper les unes les autres tout en se rapprochant.\n\nDéplacez les Émeutiers Zombies d'1 case vers l'investigateur le plus proche.
+EventZombieRiotHorror2_Tile15.text,Les créatures se percutent les unes aux autres, grognant, hurlant et piétinant tout sur leur passage.\n \nLa panique monte en vous quand vous prenez conscience de la situation. Test {will{ (2), si vous réussissez vous enfouissez votre peur. Si vous échouez, vous êtes transi par la peur, devenez Entravé.
+EventZombieRiotEvade1_Tile15.text,Les créatures vous bloquent toute issue possible. Vous tentez de forcer un passage. Subissez 2 Dégâts face cachée ({agility} annule) alors qu'elles vous griffent durant votre tentative. Si vous subissez au moins 1 Dégât, vous n'arrivez à rien, renoncez à votre action.
+EventLabReplaceViewingWindow_Tile14.text,Les deux grandes vitres dans le fond de la pièce sont brisées.\n\nPlacez 1 jeton Recherche si aucun n'est déjà présent.
+TokenWarehouseExplore_Tile16.text,Les doubles portes semblent mener à ce que vous pensez être un dépôt. Les portes sont renforcées par un cerclage métallique et une serrure codée en verrouille l'entrée.
+EventBigNastyPlaceEastAlly_Tile9.text,Les échos d'un hurlement semble provenir d'un bâtiment dans la Ruelle Est.\n\nPlacez les tuiles{c:TileEastAlley_Tile9}, {c:TileEastAlley2_Tile11}, ainsi que les jetons Mur et Obscurité comme indiqué.\n\nRetirez les jetons Recherche à cet endroit.
+TokenBoatEscape_Tile1.text,Les investigateurs sur cette case avec l'Objet Unique {c:QItemQItemFuelCan} peuvent faire le plein et fuir, abandonnant Ambersby à son triste sort.
+EventExplainBoatInteractMoveCam_Tile21.text,Les investigateurs sur la tuile {c:TileBoat_Tile1} peuvent interagir avec le jeton pour s'échapper.
+EventPlaceHoldingCell_PlaceTile21.text,Les marches conduisent à une zone de stockage.\n\nSur le côté, une cellule de détention, les portes sont grandes ouvertes.\n\nPlacez la tuile {c:TileHoldingCell_Tile21} et les jetons Mur comme indiqué.\n\nRetirez le jeton Exploration.
+EventPlaceBookShopSearch_Tile13.text,Les murs sont recouverts de livres. La plupart sont à vendre, ce qui ne vous intéresse pas trop.\n\nCependant votre regard est attiré par plusieurs épais et poussiéreux ouvrages sur le coin opposé du comptoir. \n\nPlacez un jeton Recherche comme indiqué.
+TokenBerth3Candles_Tile5.text,Les possessions de l'homme mystérieux se sont renversées de son sac et sont répandues sur la jetée.
+TokenPlazaSightToken_Tile6.text,Les quais rejoignent une esplanade pavée.\n\nLes investigateurs sur le Dock de Location  ou sur la Jetée  peuvent interagir avec ce jeton.
+EventNorthStreetLightsTakeTorch_Tile8.text,Les torches sont assez hautes, vous tentez de vous élancer à partir du seuil de la fenêtre de la librairie pour en atteindre une. Test {agility} (2).
+EventNSLightsLightTorches_Tile8.text,Les torches sont assez hautes, vous tentez de vous élancer à partir du seuil de la fenêtre de la librairie pour en atteindre une. Test {agility} (2).
+EventReadManifest_PlayerInv.button1,{action} Lire le Journal
+EventLabNastyCureOrBurnOption_Tile15.text,Maintenant que vous possédez le sérum, il vous apparaît évident que vous pouvez le placer dans le mécanisme à coté de la porte de la salle de test. Cependant, vous regardez la pièce, et avec un bidon d'essence, vous l'imaginez en feu.\n\nLes investigateurs peuvent interagir de deux manières avec cette pièce.\n\n<i>Soit tenter d'administrer l'étrange mixture, objet {c:QItemLabCure_Tile15}, en utilisant le mécanisme près de la porte.\n\n Soit tenter d'incendier la pièce en utilisant le bidon d'essence, objet  {c:QItemQItemFuelCan}.</i>
+EventLabNastyCureOption_Tile15.text,Maintenant que vous possédez le sérum, il vous apparaît évident que vous pouvez le placer dans le mécanisme à coté de la porte de la salle de test.\n\n<i>L'investigateur avec l'étrange mixture {c:QItemLabCure_Tile15} peut tenter de l'introduire.</i>\n
+EventPlaceEasyAlleyHiddenSearch_Tile9.text,Maintenant que vous voyez cette affiche bleue, dissimulant l'entrée du labo, vous vous souvenez en avoir vue une similaire sur le mur dans la ruelle Est.\n\nPlacez 1 jeton Recherche.
+TokenHelperCorpse_Tile5.button1,{action} Mettre le feu au cadavre avec votre <i>Source de Lumière</i>
+TokenPlazaCorpse_Tile6.button1,{action} Mettre le feu au cadavre avec votre <i>Source de Lumière</i>
+TokenSnackShopCorpse_Revent1.button1,{action} Mettre le feu au corps avec votre <i>Source de Lumière</i>
+EventHelperActivate_REvent3.button1,Monstre à portée
+TokenAbanHousePerson_Tile12.button1,{action} Parler à l'homme
+TokenShopKeepHappy_Tile13.button1,{action} Parler au Bouquiniste
+TokenFriendlySheriff_Teil15.button1,Parler au Sheriff Robins
+TokenHoldingCellScientistPerson_Tile21.button1,{action}	Parler avec le Dr Chan
+TokenHoldingCellPeopleSearch_Tile21.button1,{action} Parler d'Ambersby au Dr Chan
+SpawnBigNasty_CureAfterSpawn.text,Des morceaux de la créature se séparent de son tronc principal, la viande morte faisant un bruit écoeurant en tombant sur le sol. En dépit d'un destin inévitable, elle se traîne vers vous.
+EventSheriffAttack.button2,Pas d'investigateur à portée
+EventSnackShopZombieAttackInvestigatorsTarWill_REvent1.button2,Pas d'investigateur à portée
+EventSnackShopZombieInvestigatorsTarLore_REvent1.button2,Pas d'investigateur à portée
+EventSnackShopZombieInvestigatorsTarStr_REvent1.button2,Pas d'investigateur à portée
+EventZombieRiotTarAgilityRange_Tile15.button2,Pas d'investigateur à portée
+EventZombieRiotTarAgiMelee_Tile15.button2,Pas d'investigateur à portée
+EventZombieRiotTarObsMelee_Tile15.button2,Pas d'investigateur à portée
+EventZombieRiotTarStrMelee_Tile15.button2,Pas d'investigateur à portée
+EventZombieRiotTarWillMelee_Tile15.button2,Pas d'investigateur à portée
+EventZombieRiotTarWillRange_Tile15.button2,Pas d'investigateur à portée
+EventBigNastyHorror.button2,Pas d'investigateur à portée
+EventBigNastyMoveMeleeTarLore.button2,Pas d'investigateur à portée
+EventBigNastyMoveMeleeTarObserv.button2,Pas d'investigateur à portée
+EventBigNastyMoveMeleeTarStr.button2,Pas d'investigateur à portée
+EventBigNastyMoveRangeTarAll.button2,Pas d'investigateur à portée
+EventBigNastyMoveRangeTargetAgi.button2,Pas d'investigateur à portée
+EventBigNastyMoveRangeTarWill.button2,Pas d'investigateur à portée
+EventHelperActivate_REvent3.button2,Pas de monstre à portée
+EventSheriffOfKnockInfluanceSuccess_Tile15.text,Pendant un moment, vous n'entendez aucune bruit. Puis finalement la voix répond :\n\n"Ok.. Ok... Vous pouvez entrer."\n\nVous entendez le bruit de fournitures que l'on déplace. Peu après, le cliquetis d'une serrure, puis la porte s'ouvre.
+EventHoldingCellPadlockBreakFAIL_Tile21.text,Peu importe l'énergie que vous déployez, vous n'arrivez pas à venir à bout du cadenas. 
+EventLabBlueRed_Tile14.button1,Placer l'Orange
+EventLabBlueStabalizer_Tile14.button2,Placer l'Orange
+EventLabGreenBlue_Tile14.button1,Placer l'Orange
+EventLabGreenRed_Tile14.button2,Placer l'Orange
+EventLabGreenStabalizer_Tile14.button2,Placer l'Orange
+EventLabRedBlue_Tile14.button2,Placer l'Orange
+EventLabRedGreen_Tile14.button2,Placer l'Orange
+EventLabRedStabailzer_Tile14.button1,Placer l'Orange
+TokenSecretLabEquipmentUse_Tile14.button1,{action}Placer l'Orange
+EventLabBlueGreen_Tile14.button2,Placer la Bleue
+EventLabGreenOrange_Tile14.button1,Placer la Bleue
+EventLabGreenRed_Tile14.button1,Placer la Bleue
+EventLabGreenStabalizer_Tile14.button3,Placer la Bleue
+EventLabOrangeGreen_Tile14.button2,Placer la Bleue
+EventLabOrangeRed_Tile14.button2,Placer la Bleue
+EventLabOrangeStabalizer_Tile14.button3,Placer la Bleue
+EventLabRedGreen_Tile14.button1,Placer la Bleue
+EventLabRedOrange_Tile14.button2,Placer la Bleue
+EventLabRedStabailzer_Tile14.button2,Placer la Bleue
+TokenSecretLabEquipmentUse_Tile14.button4,{action}Placer la Bleue
+EventLabBlueGreen_Tile14.button1,Placer la Rouge
+EventLabBlueOrange_Tile14.button1,Placer la Rouge
+EventLabBlueStabalizer_Tile14.button1,Placer la Rouge
+EventLabGreenBlue_Tile14.button2,Placer la Rouge
+EventLabGreenOrange_Tile14.button2,Placer la Rouge
+EventLabGreenStabalizer_Tile14.button1,Placer la Rouge
+EventLabOrangeBlue_Tile14.button1,Placer la Rouge
+EventLabOrangeGreen_Tile14.button1,Placer la Rouge
+EventLabOrangeStabalizer_Tile14.button1,Placer la Rouge
+TokenSecretLabEquipmentUse_Tile14.button3,{action}Placer la Rouge
+EventLabBlueOrange_Tile14.button2,Placer la Verte
+EventLabBlueRed_Tile14.button2,Placer la Verte
+EventLabBlueStabalizer_Tile14.button3,Placer la Verte
+EventLabOrangeBlue_Tile14.button2,Placer la Verte
+EventLabOrangeRed_Tile14.button1,Placer la Verte
+EventLabOrangeStabalizer_Tile14.button2,Placer la Verte
+EventLabRedBlue_Tile14.button1,Placer la Verte
+EventLabRedOrange_Tile14.button1,Placer la Verte
+EventLabRedStabailzer_Tile14.button3,Placer la Verte
+TokenSecretLabEquipmentUse_Tile14.button2,{action}Placer la Verte
+EventPlaceWarehouseStealth_PlaceTile20_NotUsed.text,Placez L'Entrepôt
+EventPlaceRentalBoatsSearch_Tile3.text,Plusieurs bateaux de location sont empilés au bout du quai.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceHoldingCellBoxes_Tile21.text,Plusieurs boites sont dans le coin de la zone de rangement.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlacePharmaCreatesToken_Tile5.text,Plusieurs caisses soigneusement rangées derrière une boutique. Le magasin semble fermée depuis longtemps.\n\nPlacez 1 jeton Recherche comme indiqué.
+TokenPharaCrate1Search_Tile5.text,Plusieurs caisses sont soigneusement entreposées sur la jetée.
+TokenBookStoreSearch_Tile13.text,Plusieurs épais et poussiéreux ouvrages reposent sur le coin du bureau, ils sont tous ouverts, comme si quelqu'un les avait consultés récemment.
+EventWarehouseAttackThrallRanged_Tile_20.text,Plusieurs objets sont à portée de main dans l'entrepôt. Vous prenez un bout de métal d'une taille conséquente et pensez qu'il puisse faire office de javelot.\n\nVous prenez le temps de viser et le lancez sur la créature. Test {agility} (2)
+EventPlaceHoldingCellPeopleGroup_Tile21.text,Plusieurs personnes se blottissent les unes contre les autres dans le cachot. On dirait bien que le Sheriff protègent ces gens du danger à l'extérieur.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceAngrySheriff_Tile15.button1,Poser vos armes sur le sol
+TokenBerth3ListClue_Tile5.button1,{action} Prendre la liste
+EventHorrorBigNasty3.text,Quand la Terreur d'Ambersby se retourne, de multiples visages mutilés vous regardent de leurs yeux marqués par la torture et le tourment.\n\nVous êtes obssédé par la vision de ces âmes meurtries et remarquez à peine la tentacule qui se prépare à vous frapper. Test {agility} (2). \n\nSi vous réussissez, vous l'esquivez au tout dernier moment, l'extrémité claquant au-dessus de votre tête sans vous toucher. Si vous échouez, le coup vous assomme, subissez 1 Dégât et devenez Étourdi.
+TokenElderWardItem_REvent6.text,Quelque chose luit faiblement sous la surface de l'eau de la fontaine.
+EventSheriffOfficeBarricade_Tile15.text,Quelques fournitures derrière la porte témoignent d'une ancienne barricade. Elles pourraient toujours servir à la bloquer.\n\nPlacez un jeton Barricade comme indiqué.
+EventLabApparatusCompleteEASY_Tile15_NOTUSED.text,Réalisant qu'il n'y a pas ici d'autres candidats appropriés, vous grimacez et passez votre bras dans l'appareil. De l'autre, vous dressez les leviers dans l'ordre que l'homme vous a expliqué.\n\nLa machine s'anime, et vous tressaillez quand vous sentez une aiguille prélever du sang dans votre avant-bras, subissez 1 Dégât face cachée. Vous regardez avec fascination le mélange entre l'étrange liquide et votre échantillon de sang se faire, puis être déposé dans un flacon.\n\nRécupérez l'Objet Unique {c:QItemLabCure_Tile15}, cela représente le mélange.\n\nRetirez le jeton Recherche.
+TokenPharaCrate1Search_Tile5.button1,{action} Rechercher dans les caisses
+TokenPapersToken_Tile3.button1,{action} Rechercher dans les papiers
+TokenRentalBoat_Tile3.button1,{action} Fouiller les bateaux
+EventPlaceAngrySheriff_Tile15.button2,Refuser de poser vos armes
+EventReadInvestigatorJournal.button1,Relire les preuves
+EventEastAlleyRemoveHiddenDoorSearch_Tile9.text,Retirez le jeton Recherche comme indiqué.
+EventBookStoreIntimidateShopKeep_Tile13.button1,Réussite
+EventBookStorePersuadeScaredShopKeep_Tile13.button1,Réussite
+EventBookStoreSearchInvestigate_Tile13.button1,Réussite
+EventBookStoreSpeakFriendlyKeeper2_Tile13.button1,Réussite
+EventEastAlleyHiddenDoorStealth_Tile9.button1,Réussite
+EventEastAlleySearchInvestigate_Tile9.button1,Réussite
+EventHoldingCellSmashPadlock_Tile21.button1,Réussite
+EventInventoryListWind_Tile5.button1,Réussite
+EventNorthStreetInvestigatePuddle_Tile17.button1,Réussite
+EventNorthStreetLightsTakeTorch_Tile8.button1,Réussite
+EventNSLightsLightTorches_Tile8.button1,Réussite
+EventPlazaInvestigateGlow_Tile6.button1,Réussite
+EventSearchShelvesHidDoorStealth_Tile_20.button1,Réussite
+EventSheriffOfficePersuadeSherrif_Tile15.button1,Réussite
+EventSheriffOfKNOCKInfluanceHard_Tile15.button1,Réussite
+EventSmashCabinetOffice_Tile3.button1,Valider
+EventSmashShopCheck_Tile08.button1,Valider
+EventWarehouseAttackThrallMelee_Tile20.button1,Réussite
+EventWarehousePickLock_Tile20.button1,Réussite
+quest.authors,	Scrubbless\nVersion – 1.5
+TokenSHORTCUTREMOVEONCEDONE.button2,Sheriff
+CustomMonsterAngrySheriff_Tile15.monstername,Sheriff Robins
+TokenBellSearch_Tile2.button1,{action} Sonner la cloche
+TokenSHORTCUTREMOVEONCEDONE.button1,Labo
+SpawnLabZombie0_Tile14.text,Une créature vous fixe, du sang dégoulinant de sa machoîre distendue.\n\nPosez un Zombie sur la case indiquée.
+EventHoldingCellSpeakToScientist3_Tile21.button1,Succès
+EventSearchBarrel_Tile2.button1,Succès
+EventSheriffOfKNOCKInfluanceEASY_Tile15.button1,Succès
+EventWarehouseAttackThrallRanged_Tile_20.button1,Succès
+EventWarehouseLockedChestSmash_Tile20.button1,Succès
+PuzzleAdministerCure_Tile15.button1,Succès
+PuzzleBurnLab_Tile15.button1,Succès
+PuzzleCabinetLockPuzzle_Tile3.button1,Succès
+PuzzleHoldingCellUnlockWindow_Tile21.button1,Succès
+PuzzleLabOperateApparatusEASY_Tile15.button1,Succès
+PuzzleLabOperateApparatusHARD_Tile15.button1,Succès
+PuzzleOpenPuzzleBox.button1,Succès
+PuzzleOpenWarehouseNoCode.button1,Succès
+PuzzleOpenWarehouseNoCodeNoSealth_Tile_20.button1,Succès
+EventPlazaSignSearch_Tile06.text,Deux orientations sont données.\n\nL'une pointe vers la rue au Nord et indique <i>Bureau du Sheriff</i> et <i>Couverture de Livres</i> que vous devinez être un magasin. L'autre pointe vers une ruelle à l'Est indiquant simplement <i>Rue Est – Résidences</i>.\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Recherche.
+EventWHPlaceHiddenDoorScientist_Tile20.text,Sur le mur au fond, plusieurs étagères recouvertes de papiers poussiéreux. L'un d'eux frémit doucement.\n\nPlacez 1 jeton Recherche comme indiqué.
+EventPLaceHidDoorWarehouseThrallActive_Tile20.text,Sur le mur du fond, plusieurs étagères sont recouvertes de papiers poussiéreux. L'une des feuilles frémit légèrement
+TokenWarehouseLockedChest_Tile20.text,Sur le mur latéral, une armoire verrouillée.
+EventPlaceWarehouseHidDoor_Tile20.text,Sur le mur opposé, plusieurs rayonnages sont recouverts de feuilles poussiéreuses. L'une d'elles frémit doucement.
+EventPlaceEasyAlleySearch_Tile9.text,Sur un côté de la ruelle, un corps dépasse sous une poubelle.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceLabEquipment_Tile14.text,Sur un côté du laboratoire, un étrange appareil.\n\nPlacez un jeton Recherche comme indiqué.
+TokenLabEquipmentFirst_Tile14.text,Sur un des côtés du Laboratoire repose un étrange appareillage.
+quest.name,Pression et Fardeau
+UISplashTitle.uitext,Pression et Fardeau
+EventSheriffsOfficeSMASHdoor_Tile15.button1,Tenter
+EventWarehousAttemptBreakIn_Tile_20.button1,Tenter
+EventLabNastyCureOption_Tile15.button1,{action} Tenter d'administrer le mélange
+TokenNorthStreetTorches_REvent2.button2,{action} Tenter d'allumer les torches avec votre <i>Source de Lumière</i>
+TokenSheriffOfficeBarricadeHostile_Tile15.button1,{action} Tenter de biser la barricade
+EventSheriffOfKnockRiotDeadHeardRadio_Tile15.button2,Tenter de casser la porte
+TokenWarehouseExplore_Tile16.button1,{action} Tenter de défoncer la porte
+TokenSheriffExplore_Tile15.button1,{action} Tenter de détruire la porte
+EventSheriffOfKNOCKriotdeadNoCode_Tile15.button2,Tenter de forcer la porte
+EventLabNastyBurnOption_Tile15.button1,{action}	Tenter de mettre le feu à la salle de test
+TokenNorthStreetTorches_REvent2.button1,{action} Tenter de prendre une torche
+EventPuzzleBox.button1,{action}	Tenter de résoudre l'énigme avec {lore}
+CustomMonsterBigNasty_Tile21.monstername,Terreur d'Ambersby
+EventHoldingCellHealerPatchUp2_Tile21.text,Le docteur claque la langue en sortant ces derniers bandages. Il applique des onguents et autres pansements sur vos blessures.\n\n"C'est tout ce que je peux faire pour vous l'ami, je vous en prie, trouvez ce qui cause tout ce chaos..." dit-il avant de s'en retourner vers le groupe.\n\nRetournez 1 Dégât et 1 Horreur face cachée. Puis défaussez 1 Dégât et 1 Horreur face cachée.\n\nRetirez le jeton Personnage.
+SpawnBeachHutMonster_Tile3.text,Il y a plusieurs malles dans la cabane, en approchant vous entendez un bruit bizarre. Derrière une caisse, une créature écailleuse se nourrit des restes d'un petit animal.\n\nPosez un Profond comme indiqué.\n\nRetirez le jeton Recherche.
+EventReadManifest_PlayerInv.text,Tout en essuyant les taches de sang, vous feuilletez le journal. Son propriétaire y a méticuleusement consigné plusieurs rapports en différentes catégories. Deux parties semblent très intéressantes.
+EventPlaceSheriffOfficeExplore_Tile15.text,Un autre bâtiment apparaît au bout de la rue, une plaque indiquant "Bureau du Sheriff".\n\nPlacez 1 jeton Exploration comme indiqué.
+EventLabPlaceFire_Tile12.text,Un brasier fait rage dans la salle de test, le genre de brasier que l'on évite d'approcher.\n\nPlacez 1 jeton Feu comme indiqué.\n\n<i>Les investigateurs ne peuvent plus entrer dans cette pièce ou retirer le feu de quelque manière que ce soit.</i>
+EventWarehouseLockedChestSmashStealth_Tile_20.text,Un bruit de bois craquant résonne dans la pièce quand vous défoncez l'armoire. Bien que beaucoup de choses soient sans intérêt, vous trouvez un papier détaillant le nombre de personnes traitées.\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Recherche.
+TokenPlazaCorpse_Tile6.text,Un cadavre repose dans une mare de son propre sang, près de la fontaine. L'odeur de sang frais pourrait attirer des créatures indésirables.\n\nLes investigateurs avec une Source de Lumière pourrait interagir avec ce jeton.
+EventPlacePlazaBodySearch_Tile6.text,Un corps avachi contre la fontaine, il semble immobile.\n\nPlacez un jeton Recherche comme indiqué.
+EventSnackShopZombieBoyDies_Revent1.text,Un cri d'agonie résonne à travers la ville au moment où le Zombie démembre la petite fille dans le Snack.\n\nChaque investigateur subit 1 Horreur face cachée ({will}-1 annule).\n\nRetirez le jeton Personnage du Snack.
+TokenAbandonedHouseExplore_Tile12.text,Un domicile au bout de la ruelle, la porte est entrouverte.
+TokenBoatRadio_Tile1.text,Un émetteur radio, posé près du poste de commande, est allumé et crache des interférences. 
+EventPlaceRadio_Tile1.text,Un émetteur radio, posé près du poste de commande, est allumé et crache des interférences. \n\nPlacez un jeton Recherche comme indiqué.
+EventBigNastyRangeAttackAll2.text,Un flot de sang émerge de plusieurs branchies sur tout le corps aspergeant les investigateurs à portée.\n\nTest {agility} (2), si vous réussissez, vous évitez le sang. Si vous échouez, subissez 2 Dégâts face cachée et 1 Horreur face cachée quand vous réalisez, terrorisé, que le liquide écarlate vous brûle la peau.
+EventPlaceShopKeepHappy_Tile13.text,Un homme bossu aux cheveux gris vous attire à l'intérieur et ferme la porte.\n\nIl la verrouille et se retourne face à vous, le visage plus apaisé.\n\nPlacez 1 jeton Personnage comme indiqué.
+EventPlaceAbanHouseHomelessMan_Tile12.text,Un homme débraillé est assis sur le lit, il ne semble pas aller bien.\n\nPlacez 1 jeton Personnage comme indiqué.
+TokenPlazaBody_Tile6.text,Un homme est affalé contre une fontaine. Sa peau est pâle et il baigne dans une mare de sang. Il est encore vivant et convulse spasmodiquement. Vous pourriez le sauver ou bien parler avec lui avant qu'il ne trépasse.
+EventPlaceCoweringShopKeep_Tile13.text,Un homme glapit et s'éloigne de la porte pour se précipiter dans le coin, ayant visiblement peur pour sa vie.\n\nPlacez 1 jeton Personnage comme indiqué.
+EventBigNastyPlacePlaza_Tile6.text,Un hurlement terrifiant déferle sur l'esplanade.\n\nPlacez les tuiles {c:TilePlaza_Tile6} et {c:TileShopFront_Tile7} comme indiqué.\n\nRetirez le jeton Vue.
+EventOpenWarehouseLockNoCode_PlaceTile20.text,Un mécanisme fait plusieurs cliquetis satisfaisants en se déverrouillant. Vous ouvrez timidement la porte puis pénétrez à l'intérieur.\n\nPlacez la tuile {c:TileWarehouse_Tile20} et les jetons Mur comme indiqué.\n\nRetirez le jeton Exploration.
+EventBerth3ClueDoc_Tile5.text,Un morceau de papier accroché à une caisse vide flotte dans le vent.\n\nPlacez un jeton Recherche comme indiqué.
+TokenBerth3ListClue_Tile5.text,Un morceau de papier flotte dans le vent, accroché sur le côté d'une caisse.
+TokenScrapOfSpell_REvent9.text,Un morceau de papier repose dans une flaque entre les pavés.
+EventBeachItem_REvent7.text,Un objet est échoué sur le rivage de la plage.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceSignSearch_Tile6.text,Un panneau indicateur se tient aux abords de l'esplanade.
+TokenPlazaSignPostSearch_Tile6.text,Un panneau indicateur se tient aux abords de l'esplanade.
+EventEnableHelp_REvent3.text,Un petit bateau accoste sur le quai 3 et un homme s'en extrait équipé de deux pistolets. Il saigne de plusieurs blessures, des suites d'un combat antérieur.\n\nIl s'avance vers les créatures et semble peu faire acte de votre présence.\n\nPlacez 1 jeton Personnage Bleu comme indiqué, cette personne vous aidera à combattre les monstres.
+EventPlaceSearchBeach_Tile4.text,Un petite cabane est située sur la plage.\n\nPlacez un jeton Recherche comme indiqué.
+quest.description,Un scénario pour Les Demeures de l'Épouvante 2nd Édition.\n\n<b>Ce que vous pensiez être un périple anodin est devenu une aventure encore plus traumatisante que vous n'auriez pu l'imaginer.</b>\n\nCe scénario requiert les tuiles et les monstres des extensions suivantes:\n\nLes Demeures de l'Épouvante 1ère Édition ou Cauchemars Récurrents\nMémoires Refoulées\nAu-Delà du Seuil\n\nPensez à vous servir en jeu des Objets dans l'Inventaire, il est particulièrement sollicité dans ce scénario.\n\n<i>Si vous trouvez des bugs, problèmes ou avez des questions sur ce scénario, veuillez ouvrir un post sur mon registre sur GitHub à l'adresse suivante:\n\nhttps://github.com/scrubbless/PublishedScenarios/issues</i>
+EventStart_REvent2.text,Un vent fort souffle le long de la Rue Nord, remuant la pancarte au-dessus de la librairie, éteignant les torches rudimentaires longeant le mur. Les environs sont plongés dans la pénombre.\n\nPlacez 1 jeton Obscurité sur les tuiles {c:TileNorthStreet_Tile8}, {c:TileStreetCorner_Tile17} et {c:TileBeach_Tile4}.
+EventPlaceSheriffBarricadeHostile_Tile15.text,Une barricade montée à la hâte bloque l'entrée du bureau. Il s'agit de toute évidence de la seconde ligne de défense du Sheriff.\n\nPlacez un jeton Barricade comme indiqué.\n\nLes investigateurs ne peuvent pas se déplacer dans cette partie de la tuile {c:TileSheriffOfficeFront_Tile15} tant que le jeton est en place.
+TokenCommonItemInCrate_REvent7.text,Une caisse est échouée sur la plage.
+TokenBellSearch_Tile2.text,Une cloche pour alerter les navires est au bout du quai.
+SpawnSpawnDeepOneBerth3_REvent.text,Une créature bondit de la rivière sur le quai 3, elle renifle l'air cherchant son repas. Elle a probablement été attirée par l'odeur de sang frais diffuse dans la ville d'Ambersby.\n\nVous devriez trouver une solution pour éviter que les cadavres attirent d'autres monstres du genre.\n\nPosez un Profond sur la case indiquée.
+SpawnLabZombie3_Tile14.text,Une créature est accroupie dans le coin, elle se tourne dans votre direction et émet un grognement.\n\nPlacez un Zombie comme indiqué.
+TokenDormantThrall_Tile20.text,Une créature est accroupie sur un cadavre, elle semble se nourrir des entrailles de la victime.\n\nElle ne vous prête aucune attention.
+SpawnLabZombie1_Tile14.text,Une créature est sanglée sur une chaise. Elle frémit et grogne en vous voyant, devenant toujours plus féroce.\n\nDans un mouvement brusque et violent, les sangles se tendent et se cassent net.\n\nPlacez un Zombie sur la case indiquée.
+SpawnCorpsesSpawnThrallEastAlley_REvent.text,Une créature mutante et décrépit avance d'un pas pesant d'une ruelle latéralee, elle semble attirée par la perspective d'un repas frais.\n\nPlacez un Thrall comme indiqué.
+SpawnSnackShopZombie_REvent1.text,Une créature s'avance d'un pas lourd du côté de la ruelle Est, reniflant l'odeur de sa proie.\n\nPlacez un Zombie comme indiqué.
+EventZombieRiotHorror4_Tile15.text,Une créature vous fixe intensément, des filets de sang coulant de sa machoire, alors que vous distinguez des morceaux de muscles et d'os à travers sa chair déchirée. Subissez 1 Horreur face cachée ({will}+1 annule) en vous disant, que cette créature était autrefois une personne.
+SpawnBigNastyTooSlow_Tile14.text,Une dizaine de sons gutturaux se font entendre dans un mélange de rage et d'agonie. Le bruit vous touche au plus profond de vous, tout les investigateurs subissent 1 Horreur face cachée et retourne 1 Horreur face visible.\n\nPosez la Terreur d'Ambersby sur la tuile {c:TileSecretLab_Tile14} comme indiqué.\n\n<i>Utilisez la figurine de l'Abomination de Dunwich pour symboliser le monstre.</i>
+UIInvestigationCompleteMonsterKilledText.uitext,Une dizaine de voix émet un hurlement terrifiant quand vous donnez le coup fatal à la créature. Elle tombe sur ce qui pourrait être ses genoux, puis s'écroule sur le sol, de côté. La créature suinte au moment plusieurs parties se détachent de son corps. Les différentes carcasses qui la constituaient se séparent pour donner un tas déformé de membres et d'organes...\n\nVous avez un haut-le-cœur et vous retournez. Cela prendra des semaines pour nettoyer et brûler les corps des habitants de la ville. Quelques jours plus tard, durant votre enquête, vous tombez sur un dossier marqué comme "Confidentiel".\n\nVous feuilletez les documents et réalisez qu'ils contiennent plusieurs détails à propos des expérimentations. Cependant vous portez votre attention sur un autre projet mentionné... "Projet Clarté"... Les papiers détaillent les étapes du projet sur lequel travaille le Dr Little dans son Sanatorium, tout pour amorcer quelque chose est contenu dans ce document...\n\nFélicitations, après un combat épuisant,vous avez vaincu le Monstre d'Ambersby.\n\nL'investigation est terminée.\n(Il y a trois autres fins alternatives à ce scénario.)
+EventBigNastyPlaceLab_Tile14.text,Une énorme explosion détone dans la sombre ruelle Est, les murs s'effondrent révélant le laboratoire secret.\n\nPlacez la tuile {c:TileSecretLab_Tile14} et le jeton Mur comme indiqué.\n\nRetirez l'autre jeton Mur et tous les jetons Exploration relatifs à cette tuile.
+TokenBoatSight_Tile1.text,Une épaisse brume entoure le bateau, vous arrivez à peine à distinguer des formes sur le côté tribord. \n\nLes investigateurs sur la tuile {c:TileBoat_Tile1} peuvent interagir avec ce jeton.
+EventLabVials_PlayerInv.text,Une étiquette sur la fiole contenant la mixture Orange indique "2734".
+EventHoldingCellHealerArrives_REvent5.text,Une femme dans le groupe de survivants semble plus souffrir que les autres, un homme, que vous n'aviez pas remarqué avant, s'avance vers le groupe pour lui prêter assistance. On dirait une sorte de médecin.\n\nPlacez 1 jeton Personnage comme indiqué.
+EventBoatSight_PlaceDock_PlaceTile2.text,Une fois à l'avant du bateau, vous scrutez le brouillard. Vous identifiez une jetée avec une cabane de location tout au bout. Au-dessus, une pancarte indique "Bienvenue à Ambersby".\nPlacez les tuiles {c:TileDock_Tile2} et {c:TileDockShop_tile3}.\nRetirez le jeton Vue.
+EventPlaceCabinetSearch_Tile3.text,Une grande armoire derrière le bureau est fermée par un robuste verrou en métal.
+EventPlaceBookShopExplore_Tile13.text,Une librairie se tient sur le côté opposé de la rue menant à la Plage. La porte semble barricadée de l'intérieur et toutes les lumières sont éteintes.\n\nPlacez 1 jeton Exploration comme indiqué.
+EventPlacePlazaFountainSearch_REvent6.text,Une lumière pulsée émane de la fontaine sur l'esplanade.\n\nPlacez un jeton Recherche comme indiqué.
+EventPlaceBookShopKnocked_Tile13.text,Une pâle lumière vacille à travers la fenêtre de la librairie. Peu de temps après,  vous entendez déplacer des objets et une serrure se déverrouiller.\n\nLa porte s'ouvre quasi dans la foulée. \n\nPlacez la tuile {c:TileBookStore_Tile13}.\n\nRetirez le jeton Exploration.
+TokenSnackShopBoy_REvent1.text,Une petite fille se tapit dans le Snack, on dirait qu'elle s'est barricadée de l'intérieur.
+TokenWarehouseExplore_Tile16.button2,{action} Utiliser la serrure à code
+EventInventoryListClueFailure_Tile5.text,Vos doigts saisissent le papier, mais votre atterrissage est disgracieux. En tapant le pont durement, vous réveillez une vieille blessure, subissez 1 Dégât face cachée et retournez 1 Dégât face visible.\n\nCe document en lambeaux comporte l'en-tête "La Compagnie du Centaure". Cette liste semble faire l'inventaire des fournitures médicales contenues dans la caisse. Vous ne voyez rien de particulier hormis une entrée mentionnant la « Partie Un » d'un sérum. Il s'agit d'un liquide Orange avec le numéro d'identification 2734.\n\nVous placez le papier dans votre journal et écrivez une note sur vos découvertes.\n\nLes investigateurs peuvent relire cette preuve en interagissant avec le Vieux Journal dans l'Inventaire.\n\nRetirez le jeton Recherche.
+EventReadInvestigatorJournal.text,Votre fidèle journal regroupe les preuves et mémos de bien d'aventures.\n\nUne section est isolée par un marque-page intitulé "Ambersby", elle vous servira à détailler toutes les preuves que vous pourriez récolter durant votre période à Ambersby.
+EventPlazaBodyItemFocus_Tile6.text,Vous arrivez trop tard pour le sauver, il rend son dernier râle et tombe vers l'avant. En regardant le corps, vous remarquez un nom cousu sur sa veste. On peut lire \n"Locations Ambersby"\n\nVous vous attardez sur une photo qu'il tient dans sa main ensanglantée. Vous la prenez et voyez cet homme en compagnie de ce que vous présumez être sa femme et son enfant.\n\nCette image vous rappelle à votre engagement, récupérez 1 jeton {clue} et devenez Concentré.\n\nRetirez le jeton Recherche.
+EventKillBigNasty_Cured.text,Vous assénez le coup fatal à la terreur d'Ambersby et elle s'écroule au sol, vous espérez... pour la dernière fois.
+EventPostItInspect.text,Vous attachez la note, donnée par l’homme dans l’appartement avant qu'il ne trépasse.\n\n<i> Deuxième Partie - Bleue<i>
+EventPlazaInvestigateGlow_Tile6.text,Vous atteignez et saisissez l'objet. Il y a une lumière fulgurante puis vous êtes, en un instant, projeté dans un monde étranger, des voix dans votre tête, s'adressent à vous, en des langues inconnues, parlant de la terreur et de la destruction que vous engendreriez avec cet objet {lore} (2).
+EventBeachItemEvent3_Tile4.text,Vous avalez des pilules, puis patientez jusqu'à percevoir un effet quelconque.\n\nLa souffrance liée à vos blessures s'estompe un peu et vous vous sentez quelque peu rafraichi.\n\nDéfaussez 1 Dégât face cachée.\n\nRetirez le jeton Recherche.
+EventBeachItemEvent1_Tile4.text,Vous avalez des pilules, puis patientez jusqu'à percevoir un effet quelconque.\n\nLe martelèment dans votre tête s'atténue et vous vous sentez quelque peu rafraîchi\n\nDéfaussez 1 Horreur face cachée.\n\nRetirez le jeton Recherche.
+EventBeachItemEvent2_Tile4.text,Vous avalez des pilules, puis patientez jusqu'à percevoir un effet quelconque.\n\nLe martelèment dans votre tête s'atténue et vous vous sentez quelque peu rafraîchi.\n\nDéfaussez 1 Horreur face cachée.\n\nRetirez le jeton Recherche.
+EventBeachItemEvent4_Tile4.text,Vous avalez des pilules, puis patientez jusqu'à percevoir un effet quelconque.\n\nPeu après vous êtes pris de violentes crampes à l'estomac accompagnées de nausées. Vous passez plusieurs minutes à vous vider, vous demandant pourquoi vous avez bien pu ingurgiter  au hasard, des pilules trouvées sur la plage.\n\nDevenez Sonné.\n\nRetirez le jeton Recherche.
+EventBeachItemEvent6_Tile4.text,Vous avalez des pilules, puis patientez jusqu'à percevoir un effet quelconque.\n\nVous attendez et rien ne semble se produire. Suspectant un placebo vous reprenez votre route.\n\nDevenez Hypnotisé.\n\nRetirez le jeton Recherche.
+EventBeachItemEvent5_Tile4.text,Vous avalez des pilules, puis patientez jusqu'à percevoir un effet quelconque.\n\nVous sentez une montée d'adrénaline en vous, devenez Concentré.\n\nRetirez le jeton Recherche.
+EventTimesRunningOut.text,Vous avez la désagréable impression que le temps vous manque.
+EventSignPostInspect.text,Vous avez noté approximativement les différentes directions sur le panneau de l'esplanade.\n\n<i><b>Nord</b> - Bureau du Sheriff et Librairie\n<b>Est</b> - Résidences</i>
+EventBerth3ViewPapers_PlayerInv.text,Vous avez noté le contenu de l'inventaire retrouvé sur le quai 3.\n\n<i>"Partie 1" du sérum = Liquide Orange #2734</i>
+EventSheriffOfficeMoveBrricadeSheriffDead_Tile15.text,Vous bougez la barricade de fortune hors de votre chemin et passez.\n\nDéplacez votre investigateur dans le coin supérieur droit de la tuile {c:TileSheriffOfficeFront_Tile15} et retirez le jeton Barricade.
+EventWarehousePickLockFailed_Tile_20.text,Vous cafouillez sur la serrure pendant quelques minutes avant d'abandonner.
+EventPlazaInvestigateGlowPassed_Tile6.text,Vous chassez l'illusion et reconnaissez ce dont il s'agit, un sortilège de protection sur l'objet.\n\nEn regardant de plus près, vous constatez qu'il n'a pas été affecté par l'eau de la fontaine. Récupérez l'Objet Commun {c:QItemElderItem_Tile6}.\n\nRetirez le jeton Recherche.
+EventBoatRadioSuccess_Tile1.text,Vous cherchez méthodiquement un canal, en vous servant de la pointe comme référence, et parvenez à trouver un canal actif. "Fzzz... le Sheriff Robins... fzzfzz... Polic-.. ffzz... est ... fzzzz.. déclenc-... fzzz... fzzz... quarantaine... fzz... une zone de sécuri-... fzzz... Sheriff-... fzzz Nord-... fzzz... Place... fzz..."\n\nCe message semble se répéter en boucle, et vous ne recevez aucune réponse à vos appels. \n\nRécupérez 1 jeton Indice.\n\nRetirez le jeton Recherche.
+EventWarehousePickLockSuccess_Tile20.text,Vous crochetez calmement et minutieusement la serrure. Vous entendez un dernier cliquetis rassurant avant qu'elle ne s'ouvre. Hormis une feuille détaillant le nombre de patients traités, vous ne trouvez rien d'intéressant.\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Recherche.
+EventAbanHomeManTalk_Tile12.text,Vous demandez à l'homme s'il se sent bien. Il tousse violemment et essuie du sang qui sort de sa bouche. "J'aimerais vous dire que oui... Vous ne me croieriez pas... Mais... Je ne sais p-". L'homme tousse à nouveau atrocement interrompant sa phrase.\nN'importe qui de raisonnablement curieux lui demanderait s'il sait ce qui l'a mis dans cet état...\n"J'ai vu une affiche à propos de cette expérience qui serait menée, j'y suis allé et j'ai signé. Ils m'ont dit que je serai conduit à un laboratoire, les yeux bandés, prétextant que c'était un endroit tenu secret. Ils m'ont planté une aiguille dans le bras et m'ont envoyé là-bas. Ils sont souvent venus pour faire des examens de contrôle... Tout bien réfléchi, j'ai fait un contrôle il y a quelques jours. Je sais je sais... tout ceci semble louche, mais j'étais désespéré, j'avais besoin d'avoir la sensation d'un toit au-dessus de ma tête, et ils m'ont laissé vivre ici... gratuitement." Il tousse et se repose un instant.\n\nRécupérez 1 jeton {clue}.
+EventBookStoreSpeakFriendlyKeeperEND_Tile13.text,Vous demandez au bouquiniste ce qu'il s'est passé.\n\n"Oh je ne sais pas grand chose... Ce que je sais c'est que ces créatures sont apparues il y a environ une semaine. On nous a dits de tout verrouiller la nuit. D'ailleurs la nuit dernière, j'ai entendu un tapage malfaisant sur ma porte, alors que j'étais fermé vous voyez. En regardant par la fenêtre... je ne sais pas trop comment le décrire. Cette chose frappait à ma porte... J'ai éteint les lumières, verrouillé la porte et me suis barricadé chez moi. Et je reste ici depuis." raconte l'homme frissonnant d'effroi.\n\nIl déplace une chaise et s’assoit, il n'a plus rien à vous dire.\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Personnage.
+EventBookStoreSpeakFriendlyKeeper2_Tile13.text,Vous demandez au bouquiniste s'il ne possède rien susceptible de vous aider à combattre ces créatures. Test {influence} (2).
+EventWarehouseSearchShelvesHidDoorSuccess_Tile20.text,Vous déplacez les papiers poussiéreux et nettoyez minutieusement l'étagère de son contenu. Vous vous emparez d'un {c:QItemLeadPipe} en équilibre précaire, avant qu'il ne tombe sur le sols.\n\nEn décalant le rayonnage, vous révélez une porte cachée.\n\nPrenez l'Objet Commun {c:QItemLeadPipe}\n\nRetirez les jetons Recherche et Mur comme indiqué.
+TokenSecretLabExplore_Tile11.text,Vous distinguez, sur le mur, une affiche bleue dans la pénombre de la ruelle, cela doit être ce dont parlait le Dr Chan.
+EventEastAlleyInvestigateLabExplore_Tile11.text,Vous enlever l'affiche, retirez la brique et actionnez l'interrupteur. Un pan de mur commence à s'ouvrir.\n\nPlacez la tuile {c:TileSecretLab_Tile14} et le jeton Mur comme indiqué.\n\nRetirez le jeton Exploration.
+EventHelpCorpseBurn_Tile4.text,Vous entassez les morceaux de caisse sur le quai 3 autour du corps et vous mettez le feu. Vous mouillez préalablement le quai, autour du foyer, pour éviter que le feu ne se répande.\n\nL'odeur de sang disparaît pour laisser place à une odeur de bois brûlé. \n\nRetirez le jeton Interaction.
+EventStart_REvent1.text,Vous entendez un cri et une fillette arrive en courant de la Ruelle Est, apparemment prise en chasse. Elle entre en flèche dans le Snack et se barricade à l'intérieur.\n\nPlacez 1 jeton Personnage et 1 jeton Barricade comme indiqué.
+EventOpenWarehouseLockWithCode_Tile20.text,Vous entrez le code donné par le scientifique. \n\nPlusieurs cliquetis mécaniques se font agréablement entendre avant de déverrouiller la porte. Vous ouvrez timidement la porte et pénétrez à l'intérieur.
+EventOpenWarehouseLockWithScienceCode_Tile20.text,Vous entrez le code que le scientifique vous a fournit. \n\nVous entendez plusieurs cliquetis satisfaisants dans le mécanisme quand il se déverrouille. Vous ouvrez timidement la porte et pénétrez à l'intérieur.\n\nPlacez la tuile {c:TileWarehouse_Tile20} et les jetons Mur comme indiqué.\n\nRetirez le jeton Exploration.
+EventSheriffsOfficeSMASHdoor_Tile15.text,Vous essayez de briser la porte. Test {strength}
+EventSmashCabinetOffice_Tile3.text,Vous essayez de molester une des portes de l'armoire. Test {strength}
+EventZombieRiotEvade2_Tile15.text,Vous êtes désespéramment surpassé par le nombre, à mesure que les Zombies se pressent contre vous. Subissez 1 Dégât face cachée et 1 Horreur ({agility} annule) en essayant de vous frayer un chemin à travers cette masse qui vous assaille. Si vous subissez au moins 1 Dégât, vous n'arrivez à rien. Renoncez à votre action
+EventPlaceBoatEscapeInteract_Tile1.text,Vous êtes en possession de l'essence qu'il faut pour le bateau.\n \nSi vous voulez, vous pouvez quitter l'île en laissant Ambersby à son sort. \n\nPlacez 1 jeton Interaction comme indiqué.
+EventSheriffOfKNOCKInfluanceHard_Tile15.text,Vous expliquez ce que vous avez fait jusque-là pour vous défaire des Zombies qui essayaient de rentrer dans le bureau. Test {influence} (2)
+EventSheriffOfKNOCKInfluanceEASY_Tile15.text,Vous expliquez ce que vous avez fait jusque-là pour vous défaire des Zombies qui essayaient de rentrer dans le bureau. Test {influence}+1 (2).
+EventSheriffOfficePersuadeSherrif_Tile15.text,Vous expliquez comment vous pourriez être la seule personne dans cette ville à découvrir ce qui cause tout ces problèmes. Test {influence} (2).
+EventSheriffRobinsPostAttackDialog.text,Vous expliquez que vous avez changé d'avis et n'avez aucune envie de vous battre contre lui. Le Sheriff Robins vous demande de promettre de le laisser tranquille lui et les personnes sous sa protection, réalisant qu'il n'a aucun moyen de vous incarcérer.\n\nIl recule derrière le comptoir, l'arme toujours chargée mais plus pointée vers vous pour l'instant.\n\nRetirez le jeton Personnage qui représente le Sheriff Robins et le jeton Barricade.
+EventSheriffOfficeSMASHMoveBarricade2_Tile15.text,Vous faites irruption à travers la barricade et tentez de réduire la distance avec le Sheriff Robins avant qu'il ne vous mette en joue. \n\nTest {strength} (2). Si vous réussissez, vous parvenez aisément à vous rapprocher avant qu'il ne tire. Si vous échouez, il tire à la dernière seconde, subissez 2 Dégâts face cachée.
+EventSnackShopBurnBody_Revent.text,Vous faites un tas avec des morceaux de bois et de carton autour du cadavre et mettez le feu. Vous le contenez dans le snack pour éviter qu'il ne se répande.\n\nL'odeur de sang s'atténue, remplacé par une odeur de bois brûlé.\n\nRetirez le jeton Interaction.
+EventBookShopTomesFailed_Tile13.text,Vous feuilletez ardemment les pages, vous emplissant d'un maximum de connaissances. A votre insu, une ancienne présence s'immisce dans votre esprit, devenez Hypnotisé. 
+EventZombieRiotEvade3_Tile15.text,Vous focalisez votre attention sur une échappatoire éventuelle au travers de cette cacophonie mort-vivante. Test {observation} (2). Si vous réussissez, vous voyez un endroit et entamez une course folle. Si vous échouez, toute vos tentatives sont vaines, renoncez à votre action.
+EventMoveBarricade.text,Vous forcez le passage à travers la barricade, en repoussant le mobilier derrière.\n\nDéplacez votre investigateur dans l'angle supérieur droit de la {c:TileSheriffOfficeFront_Tile15} et retirez le jeton Barricade.
+EventSearchBarrel_Tile2.text,Vous fouillez les tonneaux et ne trouvez rien d'intéressant, cependant derrière eux, des morceaux de la balustrade en bois semblent légèrement lâches. \n\nVous essayez de tirer, Test {strength} (1).
+EventBeachItemSearch_Tile4.text,Vous fouillez parmi les caisses et trouvez plusieurs boites de pilules étanchéifiées. 
+EventWarehouseSmashChestNoStealth_Tile_20.text,Vous fracassez l'armoire et le contenu se répand sur le côté. Bien que beaucoup de choses soient sans intérêt, vous trouvez un papier détaillant le nombre de personnes traitées.\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Recherche.
+EventSheriffOfficeKNOCKriotactive_Tile15.text,Vous frappez à la porte en demandant de vous laisser entrer.\n\nUne voix bourrue vous répond :\n\n"Vous êtes fou?! Je n'ouvrirai à personne tant que ces choses sont vivantes."
+EventSheriffOfKNOCKriotdeadNoCode_Tile15.text,Vous frappez à la porte en demandant de vous laisser entrer.\n\nUne voix répond:\n"Euhhh... Désolé mon ami. Je.,. Je ne peux pas vous laisser entrer... Je ne veux pas prendre le risque."
+EventSheriffOfKnockRiotDeadHeardRadio_Tile15.text,Vous frappez à la porte expliquant que vous avez intercepté le message et auriez besoin d'un refuge.\n\nUne voix hésitante vous répond :\n\n"Euhhh... Désolé l'ami. Je.,. Je ne peux pas vous laisser entrer... Je ne veux pas prendre de risque."
+EventWarehouseSmashChestFailedStealth_Tile_20.text,Vous frappez l'armoire en vain. Néanmoins vous aggravez une vieille blessure.\n\nRetournez face visible 1 Dégât.
+EventSheriffsOfficeFailedSmash_Tile15.text,Vous frappez la porte en vain, bien que vous n'êtes pas vraiment surpris qu'il soit difficile de briser la porte d'un Bureau de Sheriff.
+EventBookKnockToEnter_Tile08.text,Vous frappez la porte puis attendez. Après un moment et sans avoir reçu de réponse, vous la frappez un peu plus fort.\n\nPeu de temps après vous entendez du mouvement et une douce voix vous souffle : \n\n "Partez... Ils vont vous entendre avec tout ce raffut."
+EventWarehouseSmashDoorFailed_Tile20.text,Vous frappez le bas de la porte en vain. Vous entendez un hurlement strident provenir de l'autre côté, puis le son de mouvements effrénés. Vous vous immobilisez un instant jusqu'à que le bruit cesse.
+EventWarehouseSmashedInSuccess_Tile20.text,Vous frappez le bas de la porte sur une zone entre les bandes de métal.\n\nVous vous agenouillez pour regardez à l'intérieur de l'entrepôt qui semble avoir été aménagé à la hâte en infirmerie. Des corps immobiles jonchent le sol sur des civières ou des lits de fortune.\n\nPlacez la tuile {c:TileWarehouse_Tile20} et les jetons Mur comme indiqué.\n\nRetirez le jeton Exploration.
+UIInvestigationCompleteFleeText.uitext,Vous fuyez dans les rues d'Ambersby, le hurlement des créatures qui vous talonnent résonnant entre les murs. Bondissant sur le bateau, vous criez au Capitaine de se dépêcher, alors que celui-ci s'affaire frénétiquement à mettre du carburant. Avant d'avoir fait le plein, le Capitaine désarrime le navire et l'éloigne du quai. Les créatures bondissent contre le bateau dans un futile espoir de vous atteindre, tombant dans l'eau un par un et se noyant.\n\nVous regardez la ville derrière vous avec une pointe de culpabilité. Quel destin avez-vous scellé pour les habitants d'Ambersby? Survivront-ils assez le temps que vous trouviez de l'aide?\n\nFélicitations, vous avez fui le village damné d'Ambersby. Espérons qu'une aide sera trouvée pour aider ces pauvres gens.\n\nL'enquête est terminée.\n(Il y a trois autres fins possibles à ce scénario.)
+EventBookStoreIntimidateShopKeep_Tile13.text,Vous grognez d'une voix intimidante vers le bouquiniste.\nTest {strength}+1 (3).
+EventAbanHouseAskCure_Tile12.text,Vous interrogez l'homme sur à propos de la machine et de son utilisation.\n\n\n"Si jamais il réagissait mal, ils mettaient des fioles dans la machine, mais souvenez-vous qu'ils mettaient la bleue au milieu".\n
+EventBookStoreSearchInvestigate_Tile13.text,Vous jetez un bref regard à l'ouvrage, puis êtes totalement absorbé.\nVous réalisez que vous ne pouvez plus détourner le regard et qu'un ancien noir secret vous retient.\n\nVous tentez de reprendre vos esprits, Test {will} (2). 
+EventNSLightsOutTakeTorchFailed_Tile8.text,Vous l'attrapez du bout des doigts, vous étirant un peu plus, votre pied glisse et vous retrouvez pendu à la torche.\n\nAvant d'avoir une quelconque chance de rejoindre le seuil, la torche se décroche de son montant et vous tombez lourdement au sol avec.\n\nSubissez 1 Dégât face cachée et retournez face visible 1 Dégât, pour votre atterrissage douloureux.\n\nPlacez l'Objet Commun {c:QItemTorch} sur la case.\n\nRetirez le jeton Recherche.
+EventBookStoreInflShopKeepFail_Tile13.text,Vous lui rappelez le danger auquel font face lui, et tout les autres habitants d'Ambersby, mais il semble peu convaincu et peu enclin à vous aider.
+EventBookStoreInfluanceShopKeepSuccess_Tile13.text,Vous lui rappelez le danger auquel font face lui, et tout les autres habitants d'Ambersby.\n\nIl semble convaincu et répond:\n"Ok. Ok. Je vous comprends, voici, prenez ceci, je l'ai trouvé dans un de mes ouvrages."\n\nRécupérez le Sort {c:QItemSpellBook}.
+EventPuzzleBoxComplete.text,Vous mettez la dernière tuile en place et la boite s'ouvre dans un flash de lumière. Votre esprit est assailli de connaissances nouvelles.\n\nRécupérez le Sort {c:QItemDamagingSpell} et défaussez la boite à énigme.
+EventPlaceFriendlySheriffDropWeapons_Tile15.text,Vous mettez vos armes au sol et levez les mains.\n\nPlacez tout les objets avec le mot-clé <i>Arme</i> sur la case indiquée.\n\nA la vue de votre coopération, le Sheriff pousse délicatement une barricade improvisée qui bloquait l'accès à la seconde partie de la pièce, et s'approche de vous. Il vous scrute de haut en bas, la main prudemment posée sur son holster.\n\n"Hmm, vos intentions semblent nobles... et nous pourrions avoir besoin de votre aide. Reprenez vos armes, mais peut-être repensez-y à deux fois avant de défoncer une porte." dit-il.
+EventHoldingCellSpeakToScientist2b_Tile21_NOTUSED.text,Vous montrez au Dr Chan la liste, que vous avez récupéré un peu plus tôt, et qui dresse l'inventaire de l'entrepôt. Vous l'interrogez à propos des fioles numérotées.\n\nElle regarde et fronce les sourcil e, essayant de se souvenir de quelque chose.\n\n"Ah oui... le remède, B7221, c'est ça. Il y a une machine dans le labo, dans laquelle il peut être. Je crois qu'il peut s'agir de l'agent neutralisant des expériences du Dr Kelly... du moins cela expliquerait pourquoi il est si bien protégé."\n\nRécupérez 2 jetons {clue}.
+EventLabWhereStabalisers_Tile14.text,Vous n'avez rien vu de tel avec ce logo dessus, peut-être qu'un indice se cache dans les bâtiments non loin, pour vous aider à déterminer quelle fiole est le stabilisateur.
+EventLabPlaceBoard_Tile14.text,Vous ne l'aviez pas remarqué dans ce chaos mais un tableau noir repose contre un mur.\n\nPlacez 1 jeton Recherche.
+EventEastAlleySearchFailed_Tile9.text,Vous ne pouvez éviter que la créature vous fonce dessus et vous ratisse le bras jusqu'au sang. Subissez 1 Dégât face cachée et devenez Étourdi.\n\nVous titubez en reculant pour être hors de portée de la créature, mettant ainsi de la distance quand vous y parvenez.\n\nRetirez le jeton Recherche.
+EventHoldingCellPadlockBreakSuccess_Tile21.text,Vous otez le cadenas de la fenêtre.\n\nRetirez le jeton Recherche.
+EventHoldingCellDoorOpen_Tile21.text,Vous ouvrez la fenêtre barricadée vers la Ruelle Est.\n\nPlacez 1 jeton Porte comme indiqué.
+EventHoldingCellBoxesWill_Tile21.text,Vous ouvrez les boites et êtes surpris par un gros rat qui bondit et détale dans un coin sombre.\n\nSubissez 1 Horreur face cachée ({will} annule), pour avoir été effrayé par le saut de l'animal.\n\nRetirez le jeton Recherche.
+EventPlazaInvestigateGlowFailed_Tile6.text,Vous paniquez, incapable de vous débarasser de cette vision, y a-t-il une once de vérité? Vous revenez finalement à vous et réalisez que vous avez relaché l'objet dans l'eau de la fontaine.\n\nSubissez 1 Horreur et devenez Hypnotisé.
+EventBookShopTome_Tile13.text,Vous parvenez à dévier le regard de l'ouvrage et le refermez brutalement. Vous êtes secoué mais gardez la volonté de mener votre mission à bien, vous ouvrez un autre volume et lisez attentivement.\n\nDécidant que ce livre peut avoir un quelconque intérêt, vous le glissez dans votre sac quand le bouquiniste a le dos tourné.\n\nRécupérez l'Objet Commun {c:QItemTome}.\n\nRetirez le jeton Recherche.
+EventNSLightsOutTakeTorchBalanceSuccess_Tile8.text,Vous parvenez à garder l'équilibre quand vous atteignez et vous saisissez de la torche.\n\nRécupérez l'Objet Commun {c:QItemTorch}.\n\nRetirez le jeton Recherche.
+EventNSLightsLightTorchSuccess_Tile8.text,Vous parvenez à gracieusement vous mettre sur la pointe des pieds et les allumer.\n\nRetirez les jetons Obscurité des tuiles {c:TileNorthStreet_Tile8}, {c:TileStreetCorner_Tile17} et {c:TileBeach_Tile4}.\n\nLa lumière est rassurante, tout les investigateurs sur la tuile {c:TileNorthStreet_Tile8}, {c:TileStreetCorner_Tile17} ou {c:TileBeach_Tile4} peuvent défausser 1 Horreur face cachée.\n\nRetirez le jeton Recherche.
+EventDockGet2x4_Tile2.text,Vous parvenez à la libérer. Récupérez l'Objet Commun {c:QItem2x4_Tile2}.\n\nRetirez le jeton Recherche.
+EventReadManifestMoorings_PlayerInv.text,Vous passez à la partie Amarrage et lisez un des accostages.\n\n<i>Accostage 3: \nNavire de Recherches #4, Dr Joyce Little\nPartie précipitamment en laissant la marchandise.\nFacture "La Compagnie du Centaure" \nPour les frais de nettoyage.</i>\n\nIl est étrange de voir un navire de recherches dans une si petite ville.\n\nRécupérez 2 jetons {clue}.
+EventBookShopInfluanceFailed_Tile13.text,Vous passez plusieurs minutes à essayer de convaincre l'homme de vous laisser entrer, mais il semble trop effrayé, par ce qui rôde à l'extérieur, pour ouvrir la porte.
+EventBoatRadioFailed_Tile1.text,Vous passez plusieurs minutes à tourner le bouton mais ne discernez rien d'autre que des parasites.
+EventPlazaBodyItemBad_Tile6.text,Vous penchez sur l'homme pour prendre son pouls.\nVous sursautez quand l'homme ouvre les yeux et vous attrape le bras.\n\nIl essaie de parler, mais il parvient juste à gargariser du sang avant de succomber. Subissez 1 Horreur face cachée ({will}-1) en assistant à ces derniers instants.\n\nVous notez un nom sur sa vest : \n"Locations Ambersby"\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Recherche.
+EventLabNastyInvestigateBossSpawned_Tile14.text,Vous pensez que l'on peut introduire quelque chose dans l'emplacement près de la porte, mais vous ne semblez pas être en possession du bon objet.
+EventLabBlueStabalizer_Tile14.text,Vous placez la fiole Bleue sur l'emplacement "Stabilisateur".\n\nVous mettez un moment à vous décider quoi mettre sur l'emplacement "Partie 1".
+EventLabOrangeStabalizer_Tile14.text,Vous placez la fiole Orange sur l'emplacement "Stabilisateur".\n\nVous mettez un moment à vous décider quoi mettre sur l'emplacement "Partie 1".
+EventLabRedStabailzer_Tile14.text,Vous placez la fiole Rouge sur l'emplacement "Stabilisateur".\n\nVous mettez un moment à vous décider quoi mettre sur l'emplacement "Partie 1".
+EventLabGreenStabalizer_Tile14.text,Vous placez la fiole Verte sur l'emplacement "Stabilisateur".\n\nVous mettez un moment à vous décider quoi mettre sur l'emplacement "Partie 1".
+EventLabApparatusIncMixBad1_Tile12.text,Vous placez les deux dernières fioles dans la machine et appuyez sur le bouton.\n\nLa machine s'anime, mélangeant les deux parties, puis le stabilisateur. La machine bouge violemment quand les liquides interagissent. Une lumière rouge clignote comme un avertissement, puis l'appareil évacue le liquide brun bouillonnant dans une flacon à déchet, à l'arrière de la machine. Vous retirez délicatement le mélange et dégagez le compartiment à l'arrière.
+EventLabApparatusIncMixBad2_Tile12.text,Vous placez les deux dernières fioles dans la machine et appuyez sur le bouton.\n\nLa machine s'anime, mélangeant les deux parties, puis le stabilisateur. La machine bouge violemment quand les liquides interagissent. Une lumière rouge clignote comme un avertissement, puis l'appareil évacue le liquide brun bouillonnant dans une flacon à déchet, à l'arrière de la machine.\n\nEn essayant de dégager la fiole de déchet derrière, vous remarquez trop tard que le liquide a débordé. Subissez 1 Dégât face cachée alors qu'il vous brûle la peau.
+EventLabCureCorrectMix_Tile14.text,Vous placez les deux dernières fioles dans la machine et appuyez sur le bouton.\n\nLa machine s'anime, vous la regardez avec fascination mélanger les trois liquides, remuer le tout et déposer le produit final dans une fiole. Le mélange n'est pas de la couleur à laquelle vous vous attendiez au vue des couleurs de départ, il est plutôt chatoyant et la couleur varie à chaque fois que vous le regardez.\n\nRécupérez l'Objet Unique {c:QItemLabCure_Tile15}, il représente "l'étrange mélange".\n\nRetirez le jeton Recherche.
+EventLightsOutTorch_REvent2.text,Vous portez votre attention sur les torches fumantes accrochées au mur.\n\nPlacez un jeton Recherche comme indiqué.
+EventSheriffHorrorDropWeapons.text,Vous posez vos armes et vous vous rendez au Sheriff Robins. La honte de ce que vous avez fait est flagrante, subissez 1 Horreur face cachée.\n\nSon arme braquée en personne sur vous, le Sheriff Robins contourne délicatement la barricade. Il vous demande de placer vos mains sur la tête.\n\nPlacez tout les objets avec le mot-clé <i>Arme</i> sur votre case et devenez Entravé.
+EventAbanHouseMoveIn_Tile12.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventAbanHouseMoveIn.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventHoldingCellMoveIn_Tile21.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventHoldingCellMoveInAlley_Tile21.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventLabMoveIn_Tile15.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventMoveInOffice_Tile3.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventMoveInToShop_Tile08.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventSheriffOfficeMoveIn_Tile15.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventWarehouseMoveIn_Tile20.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventWarehouseMoveInEastAlley_Tile20.text,Vous pouvez avancer d'1 case dans la zone explorée.
+EventPlaceInvestigators_Tile1.text,Vous prenez une bouffée d'air frais, et vous vous apaisez.\n\nPlacez les investigateurs sur l'emplacement indiqué.
+EventGainInvestigatorJournal.text,Vous prenez votre vieux et fidèle journal dans lequel est souligné le nom "Ambersby".\n\nLes investigateurs peuvent interagir avec le {c:QItemInvestigatorNotes} à partir de l'Inventaire pour relire les preuves récoltées.
+EventHoldingCellSpeakToScientist2a_Tile21.text,Vous questionnez le Dr Chan sur ce qu'elle sait du labo ou du Dr Little.\n\n"Je, heuu... Oh oui. Il y a bien une chose. Avant de tout plaquer j'ai vu un sans-abri, un des premiers cobayes." Elle déglutit puis continue. \n\n"Je l'ai entendu parler de son dédommagement, un appartement en échange de ses 'services'... Pauvre homme" Elle regarde le sol et semble très embarrassée.\n\n"L'appartement... Il appartient à la Compagnie du Centaure. C'est juste à côté de la Ruelle Est, vous pourrez peut-être trouver des indices là -bas." Elle s'arrête, vous n'en saurez pas plus, même si vous sentez qu'elle feint de vous avoir tout dit.\n\nRécupérez 1 jeton {clue}.
+EventHoldingCellSpeakToScientist2_Tile21.text,Vous questionnez le Dr Chan sur ce qu'elle sait du labo ou du Dr Little.\n\nElle commence à vous parler d'un sans-abris et de la maison qu'ils lui ont donné. Vous l'interrompez pour lui dire que vous avez rencontré cet homme.\n\n"Je ne peux imaginer ce que vous avez enduré... Je n'ai pas grand chose, mais je vous en prie, prenez ceci. J'espère que cela vous aidera dans votre quête." Elle essuie ses larmes et retire quelque chose de la poche de sa blouse et vous le tend.\n\nRécupérez l'Objet Commun {c:QItemBandages}.
+EventSearchOfficePapers_Tile3.text,Vous ramassez les papiers et les remettez soigneusement sur la table. A première vue, il n'y a rien d'intéressant, excepté un Journal qui a l'air d'avoir été lu et relu. Vous le mettez dans votre sac pour en prendre connaissance plus tard.\n\nRécupérez l'Objet Unique {c:QItemMooringPapersQuestItem_Tile3} et retirez le jeton Recherche.\n\nVous pouvez interagir avec l'objet {c:QItemMooringPapersQuestItem_Tile3} depuis l'inventaire.
+EventPlazaBodyBurnCorpse_Tile6.text,Vous rassemblez tout les débris que vous pouvez trouver sur l'esplanade et sur les quais. Vous faites un tas autour du cadavre et mettez le feu. Il n'y a aucune crainte que le feu se répande sur les pavés.\n\nL'odeur de sang s'estompe pour laisser place à une odeur de bois brûlé.\n\nRetirez le jeton Interaction.
+EventReadManifestInfo_PlayerInv.text,Vous regardez à nouveau la page qui concerne les accostages :\n\n<i>Quai 3: \nBâtiment de Recherche #4, Dr Joyce Little\nDépart à la hâte. A laissé toutes son équipement.\nFacture "La Compagnie du Centaure" \nPour les frais de nettoyage.</i>\n\nCette petite ville semble un endroit bien étrange pour accueillir un bâtiment de recherche.
+EventLabNastyBurnOption_Tile15.text,Vous regardez la pièce et n'avais qu'une seule envie, celle de tout incendier. En regardant l'appareil par-dessus votre épaule, avec toutes ces fioles de couleur, vous vous demandez à quoi peuvent-elles bien servir.\n\n<i>L'investigateur possédant le bidon de pétrole, l'Objet Unique {c:QItemQItemFuelCan}, peut tenter de mettre le feu à la salle de test.</i>
+TokenEastAlleySearch_Tile9.text,Vous remarquez un corps à moitié écrasé sous le container et vous vous demandez comment il pourrait être encore vivant.
+EventEastAlleyInvestigateHiddenSearch_Tile9.text,Vous retirez l'affiche et trouvez une brique mobile, comme au labo. Derrière, un interrupteur que vous actionnez. Un mur s'ouvre vers vous.
+EventSearchShelvesHidDoorFailed_Tile_20.text,Vous retirez les feuilles poussiéreuses et révélez une porte cachée.\n\nVous remarquez trop tard une barre de fer qui tombe des étagères et tombe bruyamment sur le sol.\n\nPlacez l'Objet Commun {c:QItemLeadPipe} sur la case.\n\nRetirez les jetons Recherche et Mur comme indiqué.
+EventWarehouseCrateInvestigate2_Tile20.text,Vous retirez soigneusement le couvercle et tombez sur des rangées de fioles Bleues, en retirant la feuille d'inventaire, vous notez le numéro d'identification "6544".\n\nRécupérez 1 jeton {clue}.\n\nVous prenez une fiole et l'ajoutez à votre collection.\n\n<i>Vous pouvez accéder à cette preuve en interagissant avec l'Objet Unique Composantes Rituelles dans l'Inventaire de l'application.</i>\n\nRetirez le jeton Recherche.
+EventWarehouseInvestigateMedCrate_Tile20.text,Vous retirez soigneusement le couvercle et tombez sur des rangées de fioles Rouges, en retirant la feuille d'inventaire, vous notez le numéro d'identification "9252".\n\nRécupérez 1 jeton {clue}.\n\nVous prenez une fiole et l'ajoutez à votre collection.\n\n<i>Vous pouvez accéder à cette preuve en interagissant avec l'Objet Unique Composantes Rituelles dans l'Inventaire de l'application.</i>\n\nRetirez le jeton Recherche.
+EventWarehouseCrateInvestigate_2_Tile20.text,Vous retirez soigneusement le couvercle et tombez sur des rangées de fioles Vertes, en retirant la feuille d'inventaire, vous notez le numéro d'identification "7334".\n\nRécupérez 1 jeton {clue}.\n\nVous prenez une fiole et l'ajoutez à votre collection.\n\n<i>Vous pouvez accéder à cette preuve en interagissant avec l'Objet Unique Composantes Rituelles dans l'Inventaire de l'application.</i>\n\nRetirez le jeton Recherche.
+EventReadManifestInfo2_PlayerInv.text,Vous revoyez la liste de l'inventaire pour vous rafraîchir la mémoire : \n\n<i>Baril d'essence = 0 - Stock, en attente de livraison\nVentes récentes- Sheriff Robins - 1 bidon \nDr Little – Quai 3 pour faire le plein.</i>\n\nBien que la cabane de location soit à court d'essence, le Sheriff Robins semble avoir, lui, un bidon.
+EventInventoryListClueSuccess_Tile5.text,Vous saisissez le papier et atterrissez gracieusement sur la jetée.\n\nCe document en lambeaux comporte l'en-tête "La Compagnie du Centaure". Cette liste semble faire l'inventaire des fournitures médicales contenues dans la caisse. Vous ne voyez rien de particulier hormis une entrée mentionnant la « Partie Un » d'un sérum. Il s'agit d'un liquide Orange avec le numéro d'identification 2734.\n\nVous placez le papier dans votre journal et écrivez une note sur vos découvertes.\n\nLes investigateurs peuvent relire cette preuve en interagissant avec le Vieux Journal dans l'Inventaire.\n\nRetirez le jeton Recherche.
+UIInvestigatorCompleteBurnText.uitext,Vous saviez qu'au moment où vous utiliseriez l'essence pour mettre le feu, vous ne pourriez vous échapper par bateau. Il était d'autant plus risqué de ne pas quitter la ville d'Ambersby en étant décimé par la Monstruosité, pas après tout ce à quoi vous avez assisté.\n\nVous vous tenez au-dessus de la carcasse encore crépitante de la Terreur d'Ambersby, la bête que vous venez d'occire. Une odeur de chair carbonisée aussi douce qu'amère contribue à estomper votre adrenaline débordante. Vous grimacez en examinant les restes. Vous voyez des formes humaines, probablement d'anciens haitants de la ville d'Ambersby.\n\nVotre moment de contemplation est brutalement interrompu par les crépitements du feu et votre attention se reporte sur le véritable enfer qui règne dans la salle de test du Laboratoire. Il est évident que vous n'avez rien pour maîtriser cet incendie, et vous saisissez l'opportunité de fuir. En passant devant un bureau, vous remarquez un tas de papiers comportant la mention "Confidentiel", et vous vous emparez au vol en vous dirigeant vers la sortie.\n\nCette nuit-là, vous vous tenez sur le quai, regardant horrifié le feu se répandre de maison en maison, votre estomac se noue sous le poids de la culpabilité. Vous avez fait ce qui était le mieux n'est-ce pas ? Le reste de la ville aurait-il fini d'être décimé si cette chose avait pu s'échapper du Laboratoire ? Le feu commence peu à peu à s'éteindre, suffisamment pour que les habitants puissent s'occuper des foyers résiduels.\n\nPlusieurs jours plus tard, assis confortablement dans une maison d'hôte dans la périphérie de la ville, vous prenez connaissance des papiers confidentiels. Ils contiennent des détails sur les expériences. Votre attention est retenue par un autre projet intitulé "Projet Clarté". Les documents détaillent les plans du projet sur lequel travaille le Dr Little dans son Sanatorium, tout ce qu'il vous faut est contenu dans ce dosier.\n\nFélicitations, vous avez détruit la Terreur d'Ambersby et le mystérieux virus avec, non sans <i>quelques</i> dommages collatéraux.\n\nL'enquête est terminée.\n(Il y a trois autres fins alternatives à ce scenario.)
+EventHoldingCellSpeakToScientist3_Tile21.text,Vous sentez qu'il y a quelque chose dont le Dr Chan ne veut pas parler, une chose dont elle est terrifiée. Test {influence} (2)
+EventAbanHomeManTalk2_Tile12.text,Vous sollicitez l'homme pour avoir plus d'informations. "Je les ai entendus parler d'un espèce d'agent neutralisant qui inverserait les effets de ce qu'ils étaient en train de tester, je m’accommodais bien de ce traitement et me sentez... vraiment bien. Je ne voulais pas en savoir davantage. J'aurais du finalement vu l'état dans lequel je suis." Une quinte de toux l'assaille.\n\n"J'ai vu cette machine dans laquelle ils mettaient des récipients en verre teinté, hmm ou bien les récipients étaient remplis de liquide coloré... Je n'ai pas bien vu, ils faisaient en sorte que je regarde le plafond la majeure partie du temps. Il y a bien cet assistant qui n'avait pas trop de mémoire et qui avait besoin de tout écrire. Et bien j'ai été assez curieux pour savoir ce qu'il y avait dessus et j'ai chopé cette note. Non pas qu'elle était d'une quelconque utilité pour moi."\n\nIl vous tend un morceau de papier que vous mettez entre deux pages de votre journal pour la relire ultérieurement.\n\nLes investigateurs peuvent relire cette preuve en interagissant avec le Vieux Journal dans l'Inventaire.\n\nRécupérez 1 jeton {clue}.
+EventSmashCabinetFailure_Tile03.text,Vous tapez durement à plusieurs reprises mais elle ne scille pas.
+EventSheriffOfficeSMASHDoorSuccess_Tile15.text,Vous tapez fort sur la porte, éclatant le bois autour du mécanisme de verrouillage.\n\nDans l'élan vous êtes précipité dans la pièce. Déplacez-vous d'1 case dans la zone explorée.
+EventSmashBookShopFail_Tile08.text,Vous tapez la porte dans un bruit infernal mais ne parvenez pas à rentrer.
+EventWarehouseLockedChestSmash_Tile20.text,Vous tapez sur ce qui vous semble être une zone fragile sur le côté de l'armoire. Test {strength} (2)
+EventSmashShopCheck_Tile08.text,Vous tapez sur la porte pour tenter de l'ouvrir. Test {strength} (2)
+EventWarehousAttemptBreakIn_Tile_20.text,Vous tapotez sur la porte pour trouvez un point faible. Test {strength}.
+EventSheriffOfSMASHMoveBarricade_Tile15.text,Vous tentez d'abattre la barricade, occasion dont se saisit le Sheriff Robins pour tirer.\n\nPrenez 2 Dégâts face cachée ({agility} annule).
+EventEvadeBigNasty.text,Vous tentez d'échapper à la Terreur d'Ambersby
+EventWarehousePickLock_Tile20.text,Vous tentez de crocheter l'armoire, Test {agility} (2).
+EventEvadeBigNasty1.text,Vous tentez de vous affranchir de la créature et elle riposte de son membre.\n\nSubissez 2 Dégâts ({agility} annule), si vous subissez au moins 1 Dégât renoncez à votre action.
+EventNorthStreetInvestigatePuddleSuccess_Tile17.text,Vous tirez minutieusement le papier par un coin et le retirez lentement de l'eau. Vous vous servez d'un chiffon pour faire un buvardage et copier ainsi le texte sur une nouvelle feuille, avant que l'encre ne finisse de baver et de rendre le texte illisible.\n\nVous ne savez pas d'où ce papier peut provenir, mais il semble traduire un sort ancien.\n\nRécupérez le Sort {c:QItemNorthStreetSpell}.\n\nRetirez le jeton Recherche.
+EventNorthStreetInvestigatePuddleFailed_Tile17.text,Vous tirez minutieusement le papier par un coin. On dirait un texte ancien, mais malheureusement vous ne pouvez rien déchiffrer, le long séjour dans l'eau ayant causé trop de dommages.\n\nRetirez le jeton Recherche.
+EventDockGet2x4Failed_Tile2.text,Vous tirez sur la rambarde en bois, mais ne trouvez pas assez de prise sur le bois mouillé.
+UIInvestigaterEliminatedText.uitext,Vous tombez sur un bâtiment abandonné en bordure de la ville, les hurlements des créatures résonnent dans les rues. Vous espérez pouvoir survivre à cette menace. En regardant par la fenêtre, vous voyez la silhouette menaçante d'une monstrueuse bête. Il ne lui faudra pas longtemps avant de dévorer tout les habitants dans son élan de destruction impitoyable.\n\nVous avez l'impression d'attendre depuis des heures, avant que les hurlements vous semblent assez loin pour tenter de vous éclipser. Vous vous glissez dans la pénombre et courez aussi vite que vous pouvez, pour atteindre la périphérie de la ville. Là vous trouvez une petite cabane avec un aviron. Vous profitez de l'occasion, grimpez sur le bateau et ramez dans les ténèbres.\n\nLes souvenirs d'Ambersbury hanteront vos rêves le restant de vos jours.\n\nVous avez échoué dans l'investigation, peut-être aurez-vous plus de chance la prochaine fois !
+EventBoatTuneRadio_Tile1.text,Vous tournez la molette de réglage, et écoutez attentivement pour trouver un canal ouvert. Test {observation}.
+EventUnlockCabinetSuccess_Tile3.text,Vous tournez le trombone avec agilité dans la serrure, puis vous entendez un clic qui vous donne satisfaction.\n\nA l'intérieur, vous trouvez une arme à feu dans un état impeccable.\n\nRécupérez l'Objet Commun {c:QItemCabinetGun_Tile3}.\n\nRetirez le jeton Recherche.
+EventLabCurePuzzleCompleteNastySpawned_Tile14.text,Vous tournez les différents boutons pour aligner plusieurs petits tubes, avant de mettre la fiole en place et de tirer sur le levier.\n\nL'étrange liquide s'écoule de la fiole dans plusieurs tubes. Vous sursautez quand la machine émet un bruit et que le liquide se vaporise en un fin brouillard qui se diffuse dans la pièce. Vous regardez ébahi la lumière produire une myriade de couleurs qui dansent dans la pièce embrumée.\n\nLe brouillard grossit au point de briser les vitres et remplir lentement la pièce. Vous vous couvrez la bouche à mesure qu'il continue de se répandre dans les rues d'Ambersby.\n\nQuand la brume touche la bête, une dizaine de voix se font entendre pour se confondre en une seule, et sa chair se met à craquer et crépiter. La créaure gémit puis s'effondre sur le sol.\n\nNe retirez <b>PAS</b> la Terreur d'Ambersby.
+EventLabCurePuzzleComplete_Tile14.text,Vous tournez les différents boutons pour aligner plusieurs petits tubes, avant de mettre les fioles en place et de tirer sur le levier.\n\nL'étrange liquide s'écoule de la fiole dans plusieurs tubes. Vous sursautez quand la machine émet un bruit et que le liquide se vaporise en un fin brouillard qui se diffuse dans la pièce. Vous regardez ébahi les lumières produire une myriade de couleurs qui dansent dans la pièce dans la pièce embrumée.\n\nDes dizaines de voix se font entendre et se confondent en une seule, quand le brouillard touche la masse. La chair se met à craquer perdant de son élasticité pour devenir plus rigide.
+EventReadManifestInventory_PlayerInv.text,Vous tournez les pages de l'Inventaire. Il récapitule les objets en stock et les ventes récentes. Un entrée en particulier attire votre attention.\n\n<i>Bidons d'essence - Stock 0, en attente de livraison.\nDernières ventes - Sheriff Robins - 1 Bidon \nDr Little - Ravitaillement Quai 3.</i>\n\nBien que la cabane de location soit à court d'essence, le Sheriff Robins, lui, semble avoir un bidon.\n\nRécupérez 2 jetons {clue}.
+TokenLabBigNastyRoom_Tile14.text,Vous vous approchez de la porte à l'arrière du Laboratoire, elle semble mener à une petite salle de test. Elle est entourée de deux grandes fenêtres d'observation vitrées. Près de la porte, un étrange mécanisme correspondant vraisemblablement à un emplacement pouvant accueillir une fiole.
+TokenLabBigNastyRoomBossSpawned_Tile14.text,Vous vous approchez de la porte à l'arrière du Laboratoire, elle semble mener à une petite salle de test. Les grandes fenêtres d'observation adjacentes sont fracassées. Près de la porte endommagée, un emplacement étrange.\n\nIl s'agit sûrement de l'endroit duquel s'est échappé le monstre.
+EventBigNastyInvestigateFirst_Tile12.text,Vous vous approchez des fenêtres pour voir ce qu'il y a au-delà.
+EventEastAlleySearchInvestigate_Tile9.text,Vous vous baissez près du corps pour toucher son pouls ou bien le cas échéant, pour lui faire les poches.\n\nIl vous prend par surprise en faisant une embardée et il tente de vous agripper. Test {agility} (2)
+EventNSLightsOutLightFailed_Tile8.text,Vous vous balancez sur le seuil mais êtes trop instable, vous n'allumez que deux torches.Vous tentez d'en allumer une troisième en montant sur un coin pourri du seuil de la fenêtre.\n\nMais il ne peut davantage supporter votre poids, la chute est sans appel et vous tombez au sol, entraînant avec vous la torche allumée.\n\nSubissez 1 Dégât face cachée et retournez face visible 1 Dégât, alors que essayez maladroitement d'éviter les flammes en tombant.\n\nRetirez les jetons Obscurité des tuiles {c:TileNorthStreet_Tile8}, {c:TileStreetCorner_Tile17} et {c:TileBeach_Tile4}.\n\nPlacez 1 jeton Feu sur la case indiquée.
+EventEastAlleySearchSucces_Tile9.text,Vous vous déplacez agilement autour de la créature pour feinter ses grognements et claquements de machoire. Vous remarquez un bracelet médical autour de poignet.\nVous vous tenez toujours à distance de la créature entravée.\n\nRécupérez 1 jeton {clue}.\n\nRetirez le jeton Recherche.
+EventBookShorePersuadeScaredShopKeep_Tile13.text,Vous vous excuser de cette intrusion et expliquez ce que vous avez vu dans les rues.\n\nIl semble compatissant mais impatient que vous le laissiez tranquille.\n\nIl vous tend un petit parchemin et vous prie de partir.\n\nRécupérez le Sort {c:QItemSpellBook}.\n\nRetirez le jeton Personnage.
+EventBookStorePersuadeScaredShopKeep_Tile13.text,Vous vous excusez de votre entrée impertinente. Test {influence} (2).
+EventWarehouseAttackThrallMelee_Tile20.text,Vous vous faufilez près du Thrall, en ramassant une pièce en métal de bonne taille que vous pensez utilisez comme une lance. Quand elle se redresse pour renifler l'air, vous l'abattez violemment sur la créature, Test {strength} (2).
+EventAbanHouseSearchInvestigate_Tile12.text,Vous vous pincez le nez et furetez dans le tas de détritus en espérant trouver quelque chose d'utile.\n\nRécupérez l'Objet Commnun {c:QItemAbanHouseItem_Tile12}.\n\nRetirez ce jeton Recherche.
+EventKnockShopInfluance_Tile13.text,Vous vous présentez et expliquez les raisons de votre présence, puis vous échangez quelques mots avec l'homme terrifié de l'autre côté. Bien qu'il semble davantage rassuré, il ne veut toujours pas ouvrir la porte. Test {influence}
+EventHoldingCellSmashPadlock_Tile21.text,Vous vous saisissez d'un outil près de vous pour forcer le cadenas. Test {strength}(2).
+EventPlaceLabStabalizers_Tile20.text,Vous vous souvenez avoir déjà vu des caisses portant ce même symbole dans l'entrepôt.\n\nPlacez 3 jetons Recherche comme indiqué.
+EventZombieRiotAttackMelee2_Tile15.text,Vous vous trouvez nez à nez avec une créature, elle grogne et tente de vous griffer au visage. Vous essayez de bloquer le coup. Test {strength} (2). Si vous réussissez, vous saisissez son bras avant qu'il ne soit pris d'une quelconque inertie. Si vous échouez, elle vous griffe le bras alors que vous le levez pour vous protéger, subissez 2 Dégâts face cachée.
+EventBerth3TakeCandles_Tile5.text,Vous prenez un des objets.\n\nRécupérez l'Objet Commun {c:QItemPlazaMan}, puis retirez le jeton Recherche.
+CustomMonsterSnackShopZombie_REvent1.monstername,Zombie
+CustomMonsterAngrySheriff_Tile15.info,-	
+CustomMonsterBigNasty_Tile21.info,-	
+CustomMonsterSnackShopZombie_REvent1.info,-	
+CustomMonsterZombieRiot.info,-	
+EventBigNastyMoveRangeTarWill.button1,Le monstre attaque
+TokenSHORTCUTREMOVEONCEDONE.text,{rnd:5} Raccourci 	
+UIInvestigatorPhaseText.button1,Button1	
+UISplashClueContinue.button1,Button1
+EventBeachItemSearch_Investigate_Take_Tile4.text,Vous fouillez la caisse et trouvez plusieurs boites de cachets étanchéifiées.
+EventBeachItemSearch_TakeOnly_Tile4.button1,{action} Avaler des cachets
+EventBeachItemSearch_TakeOnly_Tile4.text,Vous fouillez la caisse et trouvez plusieurs boites de pilules étanchéifiées.
+EventBeachItemInvestigate_Tile4.text,Sur le côté de la caisse un logo, il s'agit d'une créature mi-homme mi-cheval.\n\nVous vous souvenez l'avoir vu sur les caisses du Quai 3.\n\nRécupérez 1 jeton {clue}.
+EventBeachItemInvestigate_Tile4.button1,Continuer
+EventBeachItemInvestigate2_Tile4.text,A fond de la caisse, humide mais encore lisible, une liste d'inventaire :\n\n<i>Anxiolytiques\nLaxatifs\nAmplificateurs expérimentaux</i>\n\nL'écriture sur les étiquettes des boites a été effacée.
+EventBeachItemInvestigate2_Tile4.button1,Continuer
+EventBeachItemSearch_TakeOnly_Tile4.button2,Annuler
+EventBeachItemSearch_Investigate_Take_Tile4.button1,{action} Avaler des pilules
+EventBeachItemSearch_Investigate_Take_Tile4.button2,{action} Fouiller la caisse
