@@ -1,0 +1,18 @@
+.,English
+quest.name,Investigator Example
+quest.description,This Scenario demonstrates how to force players to select specific investigators.\n\nThe valid investigators for this exmaple are:\n\nJenny Barnes\nBob Jenkins\nRita Young
+EventStart.text,In this senario you can only use the following Investigators:\n\nJenny Barnes\nBob Jenkins\nRita Young\n\nIf you have not selected at least two these investigators the scenario will end.
+EventStart.button1,Continue
+EventLoop.button1,Continue
+EventBobJenkins.button1,Continue
+EventJennyBarnes.button1,Continue
+EventRitaYoung.button1,Continue
+EventInvalidInvestigator.button1,Continue
+EventValidationFailed.button1,Continue
+EventValidationPassed.text,You have selected the correct investigators!
+EventValidationPassed.button1,Continue
+EventPlaceStartTile.text,Place the First Tile - {c:Tile0}
+EventPlaceStartTile.button1,Continue
+EventValidationFailed.text,You have selected the wrong investigators. \nPlease exit the scenario and start again with the correct investigators:\n\nJenny Barnes\nBob Jenkins\nRita Young
+EventBreakLoop.button1,Continue
+EventValidation.button1,Continue
