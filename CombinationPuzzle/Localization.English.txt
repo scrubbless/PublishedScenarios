@@ -1,0 +1,46 @@
+.,English
+quest.name,Combination Lock Puzzle
+quest.description,Example of Puzzle
+EventCP_START.button1,Continue
+EventCP_SetVars.button1,Continue
+EventCP_Code_n1.button1,Continue
+Event0_CP_Code_CHAINSTART.button1,Continue
+EventCP_Code_n2.button1,Continue
+EventCP_Code_n3.button1,Continue
+EventCP_Code_n4.button1,Continue
+UICP_Code_n1.uitext,{var:CP_Code_n1}
+UICP_Code_n2.uitext,{var:CP_Code_n2}
+UICP_Code_n3.uitext,{var:CP_Code_n3}
+Event0_START.text,Place a tile and token
+UICP_Code_n4.uitext,{var:CP_Code_n4}
+Event0_START.button1,Continue
+Token0_Token.button1,{action} Test Puzzle
+Token0_Token.text,This token is to test the puzzle
+Event0_Token.text,Tap to attempt the puzzle
+Event0_Token.button1,Continue
+EventCP_Code_CHAINEND.button1,Continue
+EventCP_PlaceButtons.button1,Continue
+UICP_Button_nt1.button1,Continue
+EventCP_Button_nt1_Clicked.button1,Continue
+UICP_Button_nb1.button1,Continue
+UICP_Button_EXIT.uitext,EXIT
+EventCP_Button_nb1_Clicked.button1,Continue
+UICP_Button_nt2.button1,Continue
+EventCP_Button_nt2_Clicked.button1,Continue
+UICP_Button_nt3.button1,Continue
+EventCP_Button_nt3_Clicked.button1,Continue
+UICP_Button_nt4.button1,Continue
+EventCP_Button_nt4_Clicked.button1,Continue
+UICP_Button_nb2.button1,Continue
+EventCP_Button_nb2_Clicked.button1,Continue
+UICP_Button_nb3.button1,Continue
+EventCP_Button_nb3_Clicked.button1,Continue
+UICP_Button_nb4.button1,Continue
+EventCP_Button_Clicked.button1,Continue
+EventCP_Button_nb4_Clicked.button1,Continue
+UICP_Button_EXIT.button1,Continue
+EventCP_Button_EXIT_Clicked.button1,Continue
+EventCP_CorrectCode.button1,Continue
+EventCP_Cleanup.button1,Continue
+EventCP_CorrectCode_EXIT.text,You have completed the puzzle, congratulations!
+EventCP_CorrectCode_EXIT.button1,Continue
